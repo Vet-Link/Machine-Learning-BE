@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+
+crontab -e
+0 1 * * * /usr/bin/python3 /path/to/your/run_notebook.py >> /path/to/your/logfile.log 2>&1
+/usr/bin/python3 /path/to/your/run_notebook.py
+
+so i have a compute engine VM to be exact on Google Cloud Platform that is always running, and i also have this .ipynb file that i want to run every night at 1 am. that .ipynb file is a model training machine learning how do i achieve that automatically

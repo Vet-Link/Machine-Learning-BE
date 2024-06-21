@@ -1,0 +1,1001 @@
+vet_name,specialty,rating,num_rating,sign_in_time
+vet_00008b4e6d174aaf8430009a37083a70,"reptile, pet",2.4,28,2024-05-23 19:39:02.439
+vet_0023bcc47b754c429f789546865bd8c8,"pet, reptile, aquatic, cattle, bird, exotic",3.5,71,2024-05-25 01:08:56.30
+vet_0047a947b4974f06870572927bee5445,reptile,4.6,199,2024-05-03 02:01:44.130
+vet_005eaa23268e41d1b22cc738e1506462,"reptile, pet, bird, aquatic",1.7,96,2024-06-01 13:33:29.899
+vet_00c1efca3e1a4d9eac865b43d30c4815,"reptile, pet",2.5,150,2024-05-02 09:02:42.112
+vet_00d0b7f98ff54811888a6089362a48db,"cattle, aquatic",2.6,7,2024-05-27 13:26:54.427
+vet_0189f0d905dd4f1e92c21717f58b5fdc,"pet, reptile",2.0,3,2024-06-14 11:21:00.70
+vet_01956e4b752443beb4719ab85cd7a322,"pet, aquatic, reptile",4.8,56,2024-05-04 01:35:26.116
+vet_01b96b23511f4bcaaef1c990cd1dfef9,"bird, aquatic",2.3,171,2024-05-07 05:01:53.174
+vet_01d5bdceba2a4f8b99dc3101aa5b75c6,"pet, reptile",2.0,88,2024-05-29 17:47:15.303
+vet_01df43066f1e469ea28cceab562ab035,"cattle, aquatic, exotic, bird",4.8,197,2024-06-09 00:31:37.999
+vet_01e4c447f03d47869099f2d8159ba6cf,"aquatic, exotic, bird, pet, cattle, reptile",1.7,66,2024-05-18 05:48:35.398
+vet_020b9ad4d34745ffb31415ed880b26c2,reptile,2.1,96,2024-06-18 06:35:27.97
+vet_024fae6750e64ee493469692594d3266,"exotic, cattle, bird, pet, reptile",2.2,101,2024-05-25 07:27:29.138
+vet_02da236c6e654b0980a11a632260d406,reptile,2.0,84,2024-05-27 21:51:51.104
+vet_02fb3b065a094fd784f27906cf07acc6,"reptile, cattle, pet",4.7,0,2024-06-11 18:03:27.157
+vet_0382141c92b74211a980c5e47e894da2,"reptile, pet",4.5,15,2024-06-06 01:30:29.614
+vet_03a9b8dcde754fd8930170317829d175,"reptile, pet, aquatic, cattle, bird",4.5,131,2024-06-06 13:01:18.315
+vet_03b92e8eefea4f09987661df430fdc7b,"pet, exotic, aquatic, reptile",3.9,72,2024-06-11 15:38:29.688
+vet_0402ee5be00f4773a9622c1db7e39793,"pet, exotic",4.8,42,2024-05-16 07:14:04.459
+vet_041f476845894450871c75cf575dfb47,"aquatic, reptile, bird, exotic",3.1,0,2024-05-05 14:15:56.428
+vet_044e4d3c93ee44c3888b19e8cd7a8205,"pet, reptile, aquatic, exotic",4.0,143,2024-05-12 07:53:42.482
+vet_053a7e41d2f64627a4d68895c25e52f9,"cattle, reptile, pet, exotic, bird, aquatic",1.4,52,2024-05-13 01:11:15.347
+vet_0590b12ddfea49cd935faadc6d8cfa61,"pet, bird, exotic, reptile",1.9,172,2024-06-09 07:58:34.154
+vet_066d0e98d1484a62bf90631998bd584f,"bird, pet, reptile, aquatic, cattle",4.2,76,2024-06-05 14:51:59.313
+vet_067762e4946c470b9e967d806a3d46c7,"reptile, pet, bird, exotic",4.0,173,2024-05-24 04:31:39.327
+vet_07285adb8c074ae79f9d1fac14cb3fea,"reptile, pet, bird, aquatic, exotic, cattle",3.8,59,2024-06-14 23:29:13.826
+vet_0734a63933d348a2867fe738a6492985,exotic,3.4,123,2024-05-19 05:12:52.398
+vet_075456c020d84ec0be82f512cd28328e,"exotic, reptile, aquatic",1.3,48,2024-05-25 13:10:15.482
+vet_0861af330989469ba079dc5dd5c48d2c,"aquatic, cattle, exotic, bird",1.6,71,2024-05-23 20:44:18.223
+vet_0861e371b5764510a7a12c02b9299dad,"bird, pet, aquatic, reptile, exotic, cattle",1.6,102,2024-06-12 00:35:45.30
+vet_08e11a63b2da445ba0dd066507aced10,"reptile, exotic, aquatic, pet",3.7,84,2024-05-21 16:41:48.935
+vet_090022fc21204da2b89b29e1394bd96f,"exotic, cattle, pet",3.4,140,2024-05-13 01:30:05.12
+vet_09137a8b1c394a6bb55829c2f3d81d44,"pet, reptile, aquatic, cattle",1.4,64,2024-05-24 02:12:58.478
+vet_092ceac5546e4954a710abafe23c456a,"pet, cattle, reptile, bird",4.5,41,2024-05-30 14:24:03.219
+vet_09f354136b3e4160b08d116970d5cea5,"cattle, aquatic, reptile, pet",1.9,109,2024-06-16 21:13:39.605
+vet_09f93c64556a464893a0089b701db305,"reptile, exotic",4.1,152,2024-05-01 11:23:00.655
+vet_09fcd38925354647ac4bcaf4546487ee,reptile,3.6,184,2024-06-15 17:52:43.436
+vet_0a2d26ae31f048e3bf85a93cc7e56bd7,"pet, bird, exotic",1.1,110,2024-05-31 12:42:24.210
+vet_0a69f6674c69455a97923ec6723940f3,"exotic, pet, bird, aquatic, reptile, cattle",3.2,37,2024-05-04 10:37:36.523
+vet_0a8baf5b3b5946109e6feed6083ecc2e,"bird, cattle, exotic, pet",2.5,112,2024-06-05 05:54:56.560
+vet_0af1b12da0a5411587c2735c122944e8,"bird, exotic",2.3,138,2024-06-20 16:46:39.626
+vet_0b14a5edd7334255b01cded5604a75d0,"aquatic, cattle, bird",2.0,128,2024-05-01 13:12:28.929
+vet_0bb3d59035e14b5fa75f68c36f28218b,"bird, pet, reptile, exotic, aquatic, cattle",4.2,7,2024-05-10 09:55:26.932
+vet_0c2e2069c81c406a8fe26d8265eb354b,"pet, reptile, exotic, cattle, bird, aquatic",2.6,53,2024-05-12 03:39:12.817
+vet_0c440c95cc3f4caa9604b3d399976466,"exotic, bird",2.5,28,2024-05-19 19:52:44.839
+vet_0c44f8c6cdc94960b22d4f7f1465064e,reptile,3.1,53,2024-05-26 09:51:38.494
+vet_0c56d331a5f24ad0ba2257a3043bd0d0,pet,2.1,189,2024-05-07 03:38:40.461
+vet_0c5e49826f9a4096bb03f6c85f00c75f,"aquatic, reptile, pet",3.1,131,2024-05-07 01:24:18.614
+vet_0c6885e6da1a49d9b4876858d64967bc,"exotic, reptile, aquatic",2.1,47,2024-06-04 18:00:09.782
+vet_0d11760382fe4e469ce4cc320726d631,"reptile, pet, cattle",4.7,178,2024-05-27 17:42:29.923
+vet_0d3c510f931e4e599c022510101d7033,"bird, reptile, exotic, aquatic, pet, cattle",2.5,162,2024-06-13 13:10:38.34
+vet_0d5d479eb9fa4b7e891b1d13855d1489,"cattle, pet, aquatic, bird, exotic",2.4,121,2024-05-18 20:36:42.277
+vet_0daaf998273446e2983d3ae46808431f,"pet, exotic, aquatic, cattle, reptile, bird",3.8,191,2024-06-17 00:53:15.618
+vet_0db62e775f2847afbbc8eb22bd7e85b8,"cattle, reptile, pet, exotic, aquatic",4.5,135,2024-05-20 13:52:01.697
+vet_0de3f8b505cd47c2b2d16840e7dc533a,"aquatic, cattle, pet, reptile",1.0,183,2024-06-18 10:03:05.418
+vet_0e203367b05b41ddb907dd2904553da0,"aquatic, exotic, bird, cattle, pet",3.8,109,2024-05-30 03:24:48.671
+vet_0e9a6ad11ba241fb868e5599dec37a79,"exotic, reptile, pet, aquatic, cattle, bird",2.8,142,2024-05-13 22:00:53.189
+vet_0ec173e0474549aea35b2fb2d0a4d572,"reptile, aquatic, pet",2.2,149,2024-06-20 00:45:35.761
+vet_0ecea25fdc894c5cb5f40e101f5ae8c6,aquatic,1.7,56,2024-06-14 14:54:47.387
+vet_0f2ebc3a19f04f3b91cfb8bbce7c9ff8,"exotic, bird, aquatic, reptile, pet",2.1,15,2024-06-01 17:03:34.921
+vet_0f5cf144a1134f16a9f4db40b4006efe,bird,1.2,7,2024-05-10 15:07:20.595
+vet_0f8b50ac6c2243688d67103324c6ec2f,"bird, cattle, pet, aquatic, exotic, reptile",1.8,67,2024-05-24 07:37:30.162
+vet_0fb52602661c47d1a62c8c6975b3b270,"pet, bird",3.5,169,2024-06-14 08:15:46.835
+vet_0fd9102bc8704ebf983f56d14b7ae407,aquatic,4.0,95,2024-06-06 18:43:38.776
+vet_0feabf884c414c818f634372dff69c69,"reptile, bird, exotic, cattle, pet",3.9,74,2024-05-31 03:05:03.919
+vet_1013bd5df1774b14b8af972d9d2063d4,"exotic, reptile, aquatic, bird, cattle, pet",1.8,34,2024-05-10 12:56:11.341
+vet_101a511ca9ee4e42977d43294e88cd0d,"reptile, pet, bird",1.3,122,2024-06-19 12:17:55.04
+vet_1150b92826f446aea00858dbfad707b6,"reptile, exotic, pet, bird, aquatic",3.3,185,2024-05-27 19:56:35.632
+vet_11716cb972f149eeba7f18d40aa9e009,"exotic, bird, cattle, aquatic, pet",3.6,146,2024-05-15 20:08:52.425
+vet_11ae9fb614224db993c43cbb03d4c46f,"bird, pet, cattle, reptile, exotic",2.1,61,2024-06-06 20:03:11.93
+vet_11d87c46a791485a916ec0735f974b58,cattle,3.6,175,2024-05-12 09:41:44.62
+vet_11da26a4af8445b4819bd7f547e50a3f,"aquatic, cattle",4.9,190,2024-05-13 11:25:09.183
+vet_11f86e42afe2424cbc5ea51de45f6e2f,reptile,4.0,141,2024-06-02 00:18:50.935
+vet_12015216e2714b10bb0973e5a0d79163,"aquatic, pet, exotic, reptile",4.1,159,2024-05-14 19:44:43.457
+vet_12325c8e3f7045dbbe9f5b66193c6ead,"cattle, exotic",3.0,116,2024-05-24 15:16:40.503
+vet_123545b7e0874b7fb3a52c98f4774309,"exotic, reptile, pet, cattle, bird, aquatic",2.3,173,2024-05-27 07:23:25.901
+vet_127d3d2a04a74088a38b63a1535024cf,"pet, reptile, cattle, aquatic, exotic, bird",1.0,41,2024-06-14 01:25:56.670
+vet_13137e40035340ce8cacddc64ba3849c,"aquatic, bird",2.5,102,2024-05-23 21:19:35.855
+vet_131dbdf6008849feb68848887e354b9b,"reptile, pet, bird, aquatic",1.0,2,2024-05-28 22:19:54.578
+vet_13850fb45fec4f94a8d776792d9b78bc,"reptile, pet",3.4,82,2024-06-13 03:37:45.705
+vet_141eec0f91e244e7b6103416581724e0,"cattle, exotic, aquatic",2.7,57,2024-05-07 11:57:55.404
+vet_146bda7ab87347c58b4004b8b23dface,"bird, reptile, aquatic, exotic",4.8,152,2024-05-23 19:39:46.520
+vet_14a628e200c8434da22a0da5225c6cdf,"exotic, pet, aquatic, cattle",3.9,198,2024-05-29 11:14:39.186
+vet_14d255612e584858bd71f7a4856dc1b9,"reptile, pet, cattle",3.3,153,2024-06-01 05:09:20.998
+vet_14d8a6b5798e442f800ec7bf2848b4de,"reptile, aquatic, pet, exotic",2.2,139,2024-06-08 21:11:13.993
+vet_14fdb7122cd247b4babe8bfc705ce566,"bird, aquatic, exotic, pet, reptile, cattle",1.7,74,2024-05-25 14:00:32.110
+vet_1545f772e75847718cc009e177c7f331,"exotic, bird, cattle, pet, aquatic",3.9,95,2024-05-07 04:06:53.01
+vet_158a6ddde99d4f74a7d5b4380e1e8c1a,"reptile, pet, cattle, bird, exotic",2.3,192,2024-06-19 04:20:47.594
+vet_1593770f392541cbbbcf4874b39fd277,aquatic,2.0,50,2024-06-17 00:14:18.967
+vet_160035af90ad4e338c431fb52906321a,"pet, reptile, cattle, bird, exotic",4.0,153,2024-05-01 00:22:08.33
+vet_16011dbcf86a431093f445b087e3ee03,"aquatic, reptile, cattle, pet",3.8,172,2024-05-27 23:04:18.458
+vet_16058ed8e5ef4535a2cc4d236a5e5c73,"pet, aquatic",2.9,173,2024-05-04 02:08:25.831
+vet_1681ce1571fe4a6cbe89859bca2224e8,"exotic, bird, aquatic, pet, reptile, cattle",1.8,180,2024-05-06 13:35:15.354
+vet_16d7cb631a834f2b9a7ef7492b076b8d,"reptile, pet, bird",4.0,113,2024-06-01 09:06:00.805
+vet_16e6743d63c4400f8be17010e15df612,"reptile, pet, cattle, bird, exotic, aquatic",3.4,142,2024-05-31 03:40:55.546
+vet_172688b49ed54459b4bdefde6266a8cc,"cattle, exotic, pet, reptile, bird, aquatic",3.5,123,2024-05-17 13:11:12.766
+vet_17d42a5f55614535ac9ed5c44022727f,reptile,3.0,149,2024-06-08 10:24:53.66
+vet_17fc37549c0b43f293298a3e1238dba2,"pet, bird",3.6,21,2024-06-18 03:24:22.824
+vet_189810e3757c47dd8bd8518934fce54a,"cattle, exotic, bird",2.0,142,2024-06-01 13:52:58.361
+vet_18f29c22b9b341a69e2f3919f8409fb3,"bird, aquatic, pet",1.7,101,2024-05-28 02:54:08.928
+vet_18ffc0333d22445d8311a08a9041dc30,"aquatic, exotic, pet, cattle",1.3,123,2024-06-03 06:41:29.832
+vet_1909a178898b4956abc818929d083e9e,"bird, pet, cattle",4.6,183,2024-05-22 00:20:35.52
+vet_19e788c1701740d7bdf5ca77f55bd4e3,bird,4.3,120,2024-06-05 07:59:58.509
+vet_1a2c9c7f3e674afda58ddd35361d1fa9,"cattle, exotic, aquatic",2.6,69,2024-05-09 03:15:25.472
+vet_1a49ebf07db246baa4dde8fb3481e417,"cattle, exotic, aquatic",2.3,69,2024-06-04 19:58:03.170
+vet_1a66c6bb623b46c598591f1602afbe65,"aquatic, exotic, reptile, bird, pet",1.2,152,2024-06-07 09:05:26.04
+vet_1b187386b94245b4a6e5e2c7f7bcb56f,reptile,3.4,102,2024-06-10 19:46:06.890
+vet_1b2efc10d23946b3b22a343baa580b8a,"bird, cattle, exotic, pet, reptile",3.7,113,2024-05-31 12:08:16.461
+vet_1b788900300344d0a02086231f766747,"exotic, aquatic",4.7,116,2024-06-01 11:03:34.964
+vet_1c41769c97274c8cb65a9b9565419455,"reptile, pet, aquatic, bird, exotic",1.7,139,2024-06-17 04:56:10.556
+vet_1c938d41950348afa7057d2eebff7baa,"reptile, pet, bird",4.9,154,2024-06-19 15:50:42.49
+vet_1d20f44209e14051b1a17589140f87a2,"bird, pet, cattle, aquatic",1.1,88,2024-06-03 17:48:05.659
+vet_1d30744c3481469da3d0276c85dfc8ed,cattle,2.4,74,2024-05-19 14:55:48.387
+vet_1d90bc603f4947b682ea51f4f08b22ca,"aquatic, bird, exotic",3.6,78,2024-06-03 01:31:07.55
+vet_1dab77f6f12c40139fd77dadb5aaa237,"bird, pet, aquatic, exotic, cattle, reptile",3.5,98,2024-06-08 02:31:10.628
+vet_1e6dc6a0f87b43eaac01cdffb0cab87f,"pet, reptile, aquatic, cattle",3.5,14,2024-06-11 14:57:56.843
+vet_1eae17b0e91e4806aef0b494abf671ff,"aquatic, cattle, exotic",3.8,91,2024-06-04 05:45:34.581
+vet_1efdc2c6bfa84952a96cb7fc949825fa,"bird, exotic, pet, reptile, cattle",2.9,110,2024-06-15 08:28:49.975
+vet_1effe3b94b684313a058d641d0cd3d67,"aquatic, exotic",3.1,104,2024-05-19 21:11:32.346
+vet_1f379078ec7d491ab6387c5a6646de15,"pet, reptile, aquatic, bird, exotic, cattle",1.4,1,2024-05-13 09:56:29.610
+vet_1f4bac9794c740f59332b3e75016cf36,aquatic,1.4,141,2024-05-26 06:31:18.65
+vet_1fce289438314987918b490449ccbcc6,"pet, exotic",1.8,90,2024-05-06 12:56:30.290
+vet_1fd8e8f9ed914186b6522ab3cf3dbf1a,"cattle, reptile, aquatic",3.4,176,2024-05-11 12:38:20.806
+vet_20003f01c30e4ab19995bb6cec727364,"reptile, pet, bird",3.8,129,2024-05-12 19:08:25.622
+vet_2033f5a91a6c4c1589a5034cd476d838,pet,1.1,71,2024-06-15 21:00:28.996
+vet_20aedb3662084793a64424eb4f910626,"reptile, cattle, exotic, pet, bird",1.3,4,2024-06-20 01:44:54.524
+vet_20f86c633e284922ab9e3048040ee05b,"bird, cattle, pet",1.2,12,2024-06-11 06:22:29.318
+vet_210248bb54e24ec890fa043e6bd30297,cattle,4.4,163,2024-05-28 00:28:05.589
+vet_21b082e5f0b046a09ba58c8c697b6fc9,cattle,2.7,16,2024-06-08 02:48:42.652
+vet_21b2c6e004434c0e858ba2cd67988491,"exotic, pet, aquatic, cattle, reptile, bird",2.1,13,2024-06-01 12:58:29.267
+vet_21c1acd6b5d942ada31d557ccd1bb7c8,"bird, pet, aquatic",1.3,170,2024-05-28 20:54:20.277
+vet_21e232ef66d34e3e989feaa55300bb32,"reptile, aquatic, exotic, pet, cattle, bird",4.3,7,2024-05-24 15:29:36.764
+vet_233cbcaf1c244267a6674f334ae03b50,"exotic, bird, cattle",2.6,141,2024-05-10 21:01:05.253
+vet_23819406ab184c9aab6a64d40f9cfbf7,cattle,1.7,95,2024-05-12 14:36:53.140
+vet_23ee457ad7834942b9e435a5d3b03242,aquatic,1.8,103,2024-06-01 03:42:05.840
+vet_23f91d483e294f3187ddc2a628195294,"reptile, pet, bird, exotic",3.9,168,2024-06-08 13:31:32.922
+vet_2444020470a846bb83dd2a21d655f23e,"reptile, aquatic, exotic, pet, cattle",2.6,37,2024-05-19 08:50:56.855
+vet_2593558bf93b4184aaebe2ab9706194e,exotic,2.9,78,2024-05-21 06:04:51.693
+vet_26063a24cfd54a959b22c5a46cd2e328,"exotic, pet, reptile",4.2,182,2024-06-11 11:58:17.918
+vet_2636d93e2ea34af7a0ccfcb78330e378,"exotic, bird, aquatic, pet, cattle",2.9,38,2024-05-23 03:53:35.606
+vet_26824005655340e383dac51d553c7a69,"exotic, bird, pet",1.4,148,2024-06-05 16:20:39.308
+vet_26963c192b7c44d4a785854bb7e95671,"pet, reptile",1.2,25,2024-06-09 00:52:45.621
+vet_27fbdb093ada469f8637bb746e476cc0,exotic,4.2,101,2024-05-04 01:24:19.294
+vet_27fc3dd39eca470f9e4f493128a7852e,exotic,1.1,161,2024-05-27 23:42:25.716
+vet_281936cd52c641afb3172cc15f44cd8d,"exotic, reptile",3.1,196,2024-05-30 16:11:37.358
+vet_2820df15236546d180d89f1b21e47575,aquatic,4.5,112,2024-06-09 02:58:35.811
+vet_283c5c413a7041f0b53d4ad96323644c,"pet, reptile, aquatic, exotic, cattle, bird",1.2,107,2024-06-09 21:08:59.212
+vet_28572517bf8542108dc6d05e6c0155e4,"aquatic, reptile, cattle, pet, exotic",5.0,93,2024-05-21 00:26:43.695
+vet_28628d50b55f4fdf9157aec4757a8053,"pet, cattle, aquatic",1.4,140,2024-06-05 11:22:47.455
+vet_28667f56e821477aa82a935b154c50e0,"cattle, aquatic, exotic, pet, reptile, bird",1.2,15,2024-05-21 06:50:27.261
+vet_288bd4c5658a43b5859b333a4dd127bd,"aquatic, cattle, exotic, bird, pet, reptile",3.3,124,2024-06-15 01:10:47.819
+vet_28d5c9d163004a039dce770d787a24d7,"exotic, pet, aquatic, reptile",4.0,160,2024-05-23 00:52:47.366
+vet_293cbfad71ec4827a12b68e9ed7b696c,"reptile, cattle, pet, exotic, bird, aquatic",2.3,151,2024-05-25 01:55:01.785
+vet_2941dc48f40d4a7cbaf673b788fa7659,"pet, exotic, aquatic, bird",2.2,118,2024-05-01 21:58:10.338
+vet_297e6a99966447aa9aef999f9638fcbc,"aquatic, reptile, exotic",3.1,37,2024-06-05 06:48:52.693
+vet_29c239bbdf464be2be078eb841131fe8,"cattle, exotic, bird, pet",2.9,4,2024-05-31 00:37:38.349
+vet_29f4b4c13b5f4b00ba99a4013ee5ab27,"aquatic, reptile, pet, cattle",1.5,47,2024-05-01 15:34:15.636
+vet_2a05fdc200e946d6b348e739503b5e73,exotic,1.5,28,2024-06-05 21:22:43.95
+vet_2a547aaf079a45e8bae8716a923cfbbe,"aquatic, pet, reptile, exotic, cattle, bird",4.4,119,2024-05-09 19:14:16.75
+vet_2a6e3e511d134e1193f43ba479ecafdc,"pet, cattle, aquatic, exotic, reptile, bird",2.6,110,2024-05-06 20:55:55.678
+vet_2a826dcd08504908bf6677df4e6f9095,cattle,2.0,113,2024-06-07 05:52:02.710
+vet_2aa7d341117643e790382b95e9bf0c91,exotic,1.2,69,2024-06-13 01:40:29.256
+vet_2ac66cb949d1429fac226eae9213d1e4,"reptile, pet",3.1,177,2024-05-07 19:19:04.630
+vet_2b0ce3ac1875446e89874a01d4e0a6a9,exotic,4.4,52,2024-05-19 15:30:50.301
+vet_2b34aa461d764ffbb8356fcf9c71feb4,exotic,1.1,0,2024-05-09 16:12:36.247
+vet_2bd3aacf1a1f42a69a3f52053b1ecf9d,"reptile, aquatic, exotic, cattle, pet",2.7,168,2024-05-03 06:09:53.442
+vet_2c036d8a50f74f2b9056e0722da28a2c,"bird, pet, aquatic",2.9,86,2024-06-20 04:00:02.754
+vet_2c2eddd0390d48549d89712389abd84e,aquatic,1.5,19,2024-06-07 03:34:46.898
+vet_2c40e625290b4affa36f9fe5f3164346,"exotic, bird, cattle, pet, reptile, aquatic",3.1,27,2024-06-09 08:31:14.637
+vet_2c613c1284064c03a5220c2d6c60397d,"reptile, pet, aquatic, cattle",3.2,101,2024-06-08 09:07:52.610
+vet_2cf0c7622b6a4320a7944bf95d29f877,"reptile, pet",2.2,24,2024-06-16 16:40:46.742
+vet_2d385fd3489d48a487e4738c50d68019,"exotic, pet, cattle, reptile",3.5,35,2024-06-16 02:33:16.893
+vet_2d4290633fe0460394d8a231127113b5,"exotic, pet, bird, cattle, reptile, aquatic",3.1,17,2024-05-26 18:05:17.891
+vet_2d8d4696cd8a41d3b2aed2b9ed0ad0a5,aquatic,2.3,123,2024-06-03 00:19:53.326
+vet_2dbf5290be6141dcbef5bda3e07c3ce4,"reptile, aquatic",1.4,79,2024-05-12 00:31:33.985
+vet_2e1ac34bc2ec4628a0880037f6090839,"exotic, reptile, aquatic, bird, cattle, pet",2.2,196,2024-05-03 09:06:03.145
+vet_2e952b9a93394321b99765753b0e4085,"reptile, aquatic, pet",2.2,180,2024-06-08 23:50:10.217
+vet_2eb3efe912fb4e53afc7191f8c981efd,"reptile, bird, aquatic, exotic",1.0,5,2024-06-13 19:09:51.310
+vet_2ef6906fe1fc4f8ebda1e7d5ee3b2708,"pet, bird, aquatic, cattle",4.8,3,2024-05-06 23:24:06.27
+vet_2f20da6cccee4284b152ab9dfb2fe62f,"aquatic, pet, reptile, bird",2.3,154,2024-05-27 15:35:37.707
+vet_2f5d71ada00a48d0acf2de5a9850c948,"pet, exotic, aquatic, reptile, bird, cattle",2.5,112,2024-06-19 20:31:24.286
+vet_2f5f4ea5947e431eb1830070b243c589,"exotic, cattle, pet, bird, reptile, aquatic",1.6,145,2024-05-09 02:00:30.338
+vet_2f9d7d9beb7f411f810e747b61342b14,"pet, cattle, bird, aquatic, reptile",2.9,75,2024-05-07 00:21:24.749
+vet_2fd22166df3b4de29d876d8d3312e810,"exotic, reptile, cattle, aquatic",1.1,141,2024-05-23 17:34:17.129
+vet_2ff260656709437dacbc28dfd8fca0b3,"reptile, aquatic, pet",3.3,96,2024-05-12 04:20:25.260
+vet_30941087589b4326847643e61ae4094b,"aquatic, exotic, bird, pet",1.3,65,2024-05-18 19:13:27.32
+vet_31911ab49f364b8a9955bf204408918e,"exotic, reptile, cattle",1.4,4,2024-05-01 10:22:52.284
+vet_31b14739f56448368e9c7a1fc802c48e,cattle,3.8,166,2024-05-23 16:43:13.929
+vet_31d88eb5785e40aaaff20532eabc2b8e,"reptile, pet, bird, exotic, cattle",1.9,104,2024-06-05 05:49:15.530
+vet_32027e364da442358d64c56683992a52,"pet, reptile, aquatic, bird, exotic",1.8,23,2024-05-21 07:47:30.902
+vet_32513f8a07074263bd4a443d47c2d575,"reptile, aquatic, pet, cattle",1.7,18,2024-05-03 23:47:41.971
+vet_326bbcaa9c7a4baf8c9a0a2c0249bac9,aquatic,3.2,156,2024-05-25 04:24:11.252
+vet_32ef792faa054e57a0b424211fd95a18,"cattle, exotic, aquatic, bird, pet, reptile",4.4,114,2024-05-11 03:20:03.891
+vet_3301def3d56d49dcb1ce2fab97cbf008,"bird, cattle, pet, exotic, aquatic",1.5,140,2024-06-05 09:36:49.294
+vet_3344fe11ecc64f8a8383c8cb98f8b9b4,"exotic, reptile, cattle",4.8,17,2024-06-04 19:14:33.107
+vet_33466eef148443c2a500680358444a33,"reptile, pet",2.1,138,2024-05-17 08:48:11.17
+vet_3365780f86b5414ba2a574c14ab4cedc,"exotic, reptile, pet, cattle",3.6,132,2024-06-06 00:16:23.51
+vet_33c291aca380489db10faeca5b018b75,"reptile, pet, bird, cattle, exotic, aquatic",5.0,97,2024-05-21 02:52:26.568
+vet_34452eaf071543ee8697f257edcaccab,bird,3.7,7,2024-05-24 09:38:22.164
+vet_347eefd59e69463fb7e117b4594091bd,"aquatic, reptile, pet, exotic, bird, cattle",2.4,140,2024-06-14 16:39:38.882
+vet_34db8efe2f254bd3a430478387752a6a,"aquatic, bird, cattle, exotic, reptile",3.5,198,2024-06-02 14:46:21.305
+vet_34dffc27bb8d42449dda464df87e33d2,"aquatic, cattle, bird, pet, reptile, exotic",1.4,155,2024-05-01 00:16:38.657
+vet_35430ce08e42480098a4dbdfc42747ea,"bird, aquatic",1.1,23,2024-05-04 06:13:14.973
+vet_35d868c5a13c4a48bef7ef3926adbc7c,cattle,3.9,76,2024-06-20 18:30:26.494
+vet_361f13a7d31648b1a8e15ffdd904f452,"cattle, aquatic, bird, pet, exotic, reptile",1.4,12,2024-05-07 10:52:27.223
+vet_36732859653b4a2a9704ffd6412053fb,"exotic, bird",2.4,178,2024-06-07 13:17:34.560
+vet_36d1209e2a6f4c1ab73c7dc8f98dbe0b,pet,4.0,95,2024-05-27 10:33:12.614
+vet_36e8aa070b834aeb9aed19922d58a074,"exotic, bird, pet",1.4,184,2024-06-01 04:37:19.697
+vet_3778860950a6497cb911eb033d42974e,"exotic, reptile, pet, cattle",1.5,33,2024-05-12 12:00:26.769
+vet_37acfbe6445c44adb815acfffee2c535,"reptile, aquatic",2.3,137,2024-05-12 08:51:55.686
+vet_37ad8c4d696b46aa9ed7242968e8fea2,"bird, reptile",2.1,15,2024-05-16 12:59:37.746
+vet_3809af7d5dd442af9f7be8d113ee00a1,reptile,4.4,170,2024-05-22 02:08:20.203
+vet_383ae10f859446d9a2067ae9f4c19f08,"bird, aquatic, cattle",3.3,105,2024-06-04 00:19:56.326
+vet_3846598f412745cc8431b942a0818af6,"reptile, pet, aquatic, bird, cattle, exotic",1.2,46,2024-06-08 01:23:12.303
+vet_384b08767e7c494ba24c5653b99886c1,"exotic, cattle, bird, pet, reptile, aquatic",4.3,35,2024-06-06 00:36:36.905
+vet_38535a5e6cfe47f4a581471988be9146,"pet, aquatic, bird, exotic, reptile",2.7,17,2024-05-26 06:44:40.391
+vet_3866ce683cf74ca8aa0a373deeadc35a,"bird, cattle",4.7,52,2024-06-10 17:02:47.672
+vet_389cb9a7eecf4b8ab130ecb72fb7ee1d,aquatic,2.9,53,2024-05-08 10:45:26.127
+vet_38b36be982aa47c3929c665d62ba975c,"reptile, exotic, aquatic, cattle",4.8,71,2024-05-29 07:55:48.18
+vet_391f460b95824f3692e5f13a482521dc,"reptile, exotic",1.9,87,2024-05-06 03:00:49.407
+vet_39a53f6768114e93b224a78a1d3d276e,pet,2.8,151,2024-05-02 15:43:22.238
+vet_39acc26bfef345d18d3d8225e58c7382,"bird, aquatic, exotic, reptile, cattle",3.4,118,2024-06-01 02:25:06.740
+vet_39f6554f9d2b4fc4b38371e09b74c62d,reptile,1.1,47,2024-05-06 19:20:23.112
+vet_3ac40f111d1a473fa09fa214cee45991,"aquatic, bird",2.0,151,2024-05-25 22:27:06.669
+vet_3ad9554f3d6b41319466d86850623d8d,"exotic, bird, cattle, aquatic",4.3,37,2024-06-01 13:43:48.53
+vet_3aec0c3d743f4f44b92caf06269943cd,bird,1.9,195,2024-05-26 13:15:01.119
+vet_3afa61902d6e4b988714944340ba30e5,"bird, exotic, aquatic, cattle",2.4,156,2024-05-24 14:27:56.260
+vet_3b592f8fde3b44978adaf88153e48685,"exotic, bird, aquatic",2.1,179,2024-05-27 06:51:27.773
+vet_3b645686b12c44cdba150778f1984bfe,"reptile, bird, aquatic, pet, exotic",4.2,50,2024-06-07 14:30:17.219
+vet_3ba2935d19394cd6bd625dbf9751f30a,"exotic, aquatic, bird",2.1,49,2024-06-12 06:45:03.977
+vet_3c02529e1e634325b9d88fd76d1e695a,"cattle, exotic, pet, reptile, aquatic",2.6,110,2024-06-01 17:34:42.172
+vet_3c0944850355491ca7550e78cd7df8ad,"cattle, aquatic, exotic, reptile, pet",3.4,90,2024-06-12 14:23:38.777
+vet_3c0ee01c91494a70ae2f006fc4923189,"exotic, bird",4.1,87,2024-06-11 03:54:11.614
+vet_3c4add69124544cd8bba47ac6b744439,"aquatic, reptile, bird",3.4,180,2024-05-13 00:17:22.218
+vet_3ca57ccd7fcd414dad2a94fbd1a2303a,"cattle, reptile",2.8,143,2024-05-06 09:46:34.127
+vet_3d1e21a4afbb4212a9fb9a4cfd553d05,"aquatic, exotic",1.1,59,2024-05-21 18:31:21.954
+vet_3d797f7562da479299124fc2a43a7bfc,"reptile, exotic, aquatic",3.0,32,2024-05-06 02:31:04.718
+vet_3d946817d9c24ebdaf64a882383b591f,"bird, cattle, pet, aquatic, exotic, reptile",2.5,61,2024-05-09 14:28:12.565
+vet_3e0a8d68be4a43b2bc5fa95c9f7f4b61,"pet, exotic, cattle",4.7,135,2024-05-05 10:22:29.985
+vet_3e57af76b32a4765ad6495f78601e785,pet,4.7,157,2024-05-06 12:52:43.347
+vet_3e7d18fa68bf48a0a35fb53f02633965,"aquatic, exotic, bird, pet",1.7,107,2024-06-16 03:38:49.457
+vet_3e821291f548457f8ccbe0b4770ee4e7,"bird, exotic, pet, aquatic, reptile",2.5,4,2024-06-20 11:55:05.454
+vet_3ed0298ca63d4ff5be5e1e7f7dad63a5,"aquatic, cattle, exotic, bird, pet",3.2,60,2024-05-29 09:09:33.398
+vet_3f06737da8cf414fa62a06a594f8f66a,"bird, pet",3.1,94,2024-05-02 07:29:54.725
+vet_3f78194d3f7c45dbac1e8cf51c4b3e18,"aquatic, reptile, exotic, pet, bird, cattle",1.0,197,2024-06-11 10:40:51.60
+vet_3f9b85a811d548a7b04d87297112c890,"aquatic, reptile, cattle, exotic, bird, pet",4.0,113,2024-05-07 21:46:49.488
+vet_3fc8685d1e63497aa9ad5d4a042086f6,"pet, aquatic, cattle, exotic",1.2,142,2024-05-30 11:21:57.835
+vet_3fd192bd997340fc957aea23e898d66a,"reptile, pet",4.9,10,2024-06-13 14:54:57.844
+vet_40109e2d3b4a45f0a8eb63be58420a24,cattle,2.3,134,2024-05-25 11:37:52.693
+vet_40554b5c0cd947d599a95aff23ce0949,reptile,1.1,153,2024-06-14 15:08:32.23
+vet_40ecf2e5aaf943c5a8053d2a83e694f2,"exotic, pet, aquatic",4.0,164,2024-06-05 14:35:01.812
+vet_40f1e188bb0e4ea2a12b71582dfad434,"exotic, bird, pet",2.1,170,2024-06-16 16:56:39.680
+vet_410f88e1d4ce45c387e528418ab69cdf,"aquatic, exotic, bird",1.7,27,2024-05-30 14:15:52.627
+vet_41739ac1206a41a6bc54c115398d0cdf,"aquatic, cattle",4.6,90,2024-06-02 05:43:12.103
+vet_41a8648a20c148cfa95097191be0d731,"bird, reptile, exotic",1.6,127,2024-05-27 07:58:47.155
+vet_41ad5341c2194d3184115f8a7452fd8a,"aquatic, cattle",3.5,18,2024-05-12 06:58:27.238
+vet_41ca2cc697374ee5b03b84b960871101,"cattle, bird, pet, exotic, aquatic",3.5,124,2024-06-07 06:45:45.564
+vet_41e57a1d776446a1ae13b97097337bac,"reptile, pet",3.4,54,2024-06-20 07:38:27.09
+vet_41eb8bcbedf646faa55f8271a8027757,"reptile, pet",4.2,176,2024-06-04 10:49:42.649
+vet_4270a3fb197c4d9c84f4da8764c1039c,"reptile, exotic, pet, cattle, aquatic",2.0,58,2024-06-08 04:31:00.427
+vet_42b0e07d430c47dd92cd8c800e2fc6eb,"cattle, pet",4.6,15,2024-06-08 01:47:19.220
+vet_42f8e2c3d8794460a3441c94862d4819,"exotic, aquatic, reptile",1.1,173,2024-06-11 06:40:47.35
+vet_436e006aa1a74f65be5a538b9a1a4789,"aquatic, exotic, reptile, cattle",3.1,38,2024-05-21 19:35:31.325
+vet_4398abd9d2074a2d96d87594fbc41fef,"reptile, pet, exotic, bird, aquatic, cattle",3.1,40,2024-05-10 01:06:50.564
+vet_43aa3e6c322841da8f6d8210d731ae71,"exotic, reptile, pet",1.5,155,2024-06-02 10:04:44.873
+vet_43e510bd08e445e7b5747845da13c762,"bird, exotic, pet, reptile, aquatic",4.3,183,2024-06-04 09:54:10.953
+vet_43feb375cb874f5b99deb4448447fd12,"pet, exotic, aquatic, bird",4.2,167,2024-05-10 08:54:15.340
+vet_441195e4fef54acb9f4c4889215ed416,"exotic, bird, reptile, aquatic, pet",4.1,146,2024-06-11 00:06:16.357
+vet_44508831853f4b5d8d47cc949044293f,"pet, exotic, bird",4.2,121,2024-05-28 10:14:54.487
+vet_447739a668754e34b0c050c11a7b18b2,"bird, pet, exotic",3.6,199,2024-05-26 08:44:20.239
+vet_44d8097fb5184cfe84f954610bae6c31,"exotic, aquatic, pet, cattle, reptile, bird",4.8,53,2024-05-09 09:00:13.228
+vet_44daa23843ee49bc8743834447d50779,"bird, pet, cattle, reptile",3.3,44,2024-05-05 20:09:55.766
+vet_44df1ba6b449483c9d04320159fcd1b4,"exotic, reptile",1.7,68,2024-06-04 19:24:40.212
+vet_4525630e7878455f99bc77851e40135b,"pet, cattle, exotic",3.8,155,2024-05-21 01:24:50.523
+vet_455b9ab06d8046fd8a05d373eebf799c,"cattle, reptile",4.8,69,2024-05-03 04:51:47.376
+vet_4592d370810e42a7aad85652d841b347,"exotic, cattle, aquatic, bird",2.1,40,2024-05-12 20:51:11.113
+vet_45bd518913bd4759ac274d91c96d34ff,"cattle, bird, pet, reptile",1.2,99,2024-06-04 13:03:14.882
+vet_4607f9da19944b019f41aa42ee80d718,"reptile, exotic, cattle, bird, pet",3.5,79,2024-05-29 22:13:18.86
+vet_464767432b9e478e92f18c6c7b815932,"bird, pet, reptile, cattle, aquatic",1.2,194,2024-06-07 04:48:55.113
+vet_46c1cdc1a2134e34843708c179a68c26,"cattle, bird, pet, exotic, reptile, aquatic",4.4,173,2024-06-08 20:52:31.251
+vet_46cc39e17c114dd3a7df6983bd0140c8,"reptile, aquatic, cattle, pet",1.1,148,2024-05-30 19:14:31.774
+vet_46e1f7a8b6c542e4bb0970889f486ed9,"reptile, pet, exotic, bird",1.3,131,2024-06-07 05:23:20.800
+vet_478923739c28437ead8ba517240fda2e,reptile,3.4,146,2024-06-03 17:22:28.574
+vet_478c7cecb6cb4ed285322d2dfad0baa6,"aquatic, bird, pet, cattle",2.9,151,2024-06-09 14:56:48.143
+vet_4798c7e97f5d4e02b8c70f131b916c7e,reptile,2.1,87,2024-06-14 04:09:12.379
+vet_47b555ff6da0494bbeae0d94ec70482f,"reptile, cattle, pet, bird, exotic",4.0,52,2024-06-19 21:23:42.270
+vet_47c4c90c25964b76b9bb6c95b766e355,"bird, reptile, aquatic, exotic, pet",4.1,62,2024-05-29 04:01:29.205
+vet_48005b3f14b54302a6722da50ec59815,"cattle, exotic",2.9,14,2024-05-27 19:13:26.872
+vet_48359eb969cd435ebb07ac77a084e53e,"pet, reptile, aquatic, cattle",3.4,97,2024-06-12 23:44:59.784
+vet_484cdfbd40434458a92d81d846297b2e,"reptile, pet, bird, cattle",1.6,129,2024-05-06 20:59:12.785
+vet_487bdb10754448be8e1c5443f1b4b335,"aquatic, cattle",3.3,16,2024-06-02 04:33:00.341
+vet_487cb3d1cd1d4bf5b825ac9469206fde,"pet, aquatic, reptile",4.7,199,2024-06-04 20:29:31.934
+vet_49000ca9c8db47b793f77e8f8e99594d,"pet, cattle",4.3,144,2024-05-25 10:58:50.990
+vet_491ca22a46064904b98f9d4907553d03,"aquatic, cattle, exotic",3.8,31,2024-06-10 07:50:49.320
+vet_496fbee789f14a02af770af53e1d9523,"aquatic, exotic, pet, reptile",3.9,61,2024-05-12 07:41:14.790
+vet_49b23f0c9ad84a47832024b003748adf,"cattle, bird, pet, aquatic",4.0,102,2024-05-28 20:53:51.143
+vet_4a0592fbbb294b58b1229c903af45696,"bird, aquatic, pet",3.8,75,2024-06-14 18:36:33.925
+vet_4a528ec562a5411a8916ee1f88a63557,"aquatic, bird, pet, cattle",4.6,51,2024-06-13 12:04:02.46
+vet_4a794a7978654dcd9e59e492ff66c3c3,"reptile, bird, aquatic, exotic, cattle",2.4,193,2024-05-28 12:02:23.07
+vet_4b2add1b7353441a9171de62b43809e1,cattle,1.7,2,2024-06-08 06:40:28.425
+vet_4b6ca0154da74578b4bc7558786a3964,"reptile, pet, bird, cattle",2.7,20,2024-06-05 23:16:56.231
+vet_4b7df2bc5e2f4f9a82aad5b76e7d8bad,"exotic, bird, aquatic, pet, cattle",2.8,26,2024-06-03 23:54:05.267
+vet_4bb4bbf7f55f4297b7025151d7f1d20c,"exotic, bird, pet, reptile",5.0,32,2024-06-06 23:19:01.408
+vet_4bdebd71c44a45e1b1afd667f4f1c554,"reptile, bird, aquatic, cattle, pet",3.8,141,2024-06-19 17:46:12.94
+vet_4c2f30138bb4466d86b7994f64ab8db4,"bird, pet, exotic, cattle, aquatic",1.0,84,2024-05-01 15:58:31.476
+vet_4c42e5ac85f34ff49b3fb84e06b32033,"exotic, bird, aquatic, cattle",1.8,119,2024-06-15 15:40:32.993
+vet_4c43d23c5f7f4238af07eafbf4d2b517,"reptile, pet, aquatic, bird, exotic, cattle",1.6,175,2024-05-04 13:49:32.534
+vet_4c9f2ae77a4543bda70c3302255df6b6,"exotic, pet",1.5,45,2024-05-12 14:58:16.730
+vet_4cbcff25a06e4c43a1b47b57c8603b8c,"exotic, bird",2.8,163,2024-06-04 03:10:52.575
+vet_4d6694ff0d95428c9d27bcfae9dd0151,"reptile, exotic, pet, cattle, bird, aquatic",4.0,27,2024-05-15 16:31:58.761
+vet_4d8b19ed111644f08406f872a0c23377,"exotic, bird, aquatic",1.6,108,2024-05-30 19:39:45.378
+vet_4d8edd4334494babac8e70b2aa693ffb,"reptile, bird, exotic, aquatic",3.2,190,2024-05-14 12:01:10.610
+vet_4e01e881a01b45e2a374a575d270ffc7,"pet, reptile, exotic, aquatic, cattle, bird",3.4,158,2024-06-01 20:28:43.46
+vet_4e3e7b9d5db64d1fb4b555e4e16186dc,"reptile, aquatic, pet",1.3,191,2024-05-13 14:02:33.259
+vet_4e3ef2957d0e4155aa2078eb356634f3,"pet, cattle, reptile, bird, aquatic, exotic",4.3,127,2024-06-17 10:45:10.624
+vet_4e74f923b66d48be8832ff321efd43d7,"reptile, pet, exotic, cattle, bird, aquatic",3.7,105,2024-06-05 23:37:51.820
+vet_4e9e941dbbd14ec8b41fb48ed5fd639e,"exotic, bird, aquatic, cattle, pet",3.3,135,2024-05-30 07:35:39.407
+vet_4f64f5297dbf41ccb80901627d55d62f,"aquatic, exotic",1.9,135,2024-05-29 00:47:23.218
+vet_4fd95c0fb63a43258ace69ba5bbe59eb,"aquatic, cattle, exotic",3.0,118,2024-05-29 10:02:59.188
+vet_502ebba233a148eb9b2889fd43817aa8,"reptile, aquatic, pet",3.3,3,2024-06-12 22:07:31.406
+vet_508288cdd35c4b42ad04e80ac0beefa4,"bird, pet, exotic, cattle, reptile",3.5,98,2024-05-28 10:29:32.413
+vet_51091071263a488a9b7afba1ebf27a44,"cattle, reptile, pet, exotic",4.1,34,2024-05-31 23:19:08.832
+vet_51219ea89a7c435480e599b791834c24,aquatic,1.3,179,2024-05-18 17:12:02.799
+vet_5214d5ff4f32473fa3bec388e5e9f13f,"pet, reptile, bird, cattle, exotic, aquatic",3.3,145,2024-05-17 22:10:37.12
+vet_52165cf4f70c44c2ad2898f263b26c57,"exotic, reptile, cattle, pet, aquatic, bird",3.2,22,2024-06-15 10:15:21.344
+vet_526b586b5f61498b998ee76cd2f403ce,reptile,3.4,170,2024-06-04 19:35:35.315
+vet_5287e49a2dab498e8fbf2a51fc202bc6,"pet, exotic, reptile, cattle, bird, aquatic",1.5,135,2024-05-01 05:47:11.422
+vet_528fd9b0a0804685a7b258d8c7f19cbb,"bird, reptile, pet, cattle, exotic",3.3,131,2024-05-29 06:16:22.728
+vet_5342de49183e486d844135f84503eeed,"exotic, reptile, pet, cattle, bird, aquatic",1.2,78,2024-05-25 13:23:27.843
+vet_534dad72ceef425689c17f31bf8b6dfb,bird,3.3,99,2024-05-27 01:21:11.575
+vet_538c0815369b40658beb7737fad35da6,"exotic, bird, pet, reptile",1.9,18,2024-05-29 06:51:19.999
+vet_53bda6b4e8c44e508bd7c35e70f12ba5,bird,2.1,50,2024-05-25 13:04:37.480
+vet_53cfcfcca29543b4b0733d39c8369975,"exotic, bird, cattle, pet",2.8,19,2024-06-20 19:45:22.688
+vet_54059e23dd7049ec8448ee8708d3a03f,pet,2.8,160,2024-06-13 22:13:48.481
+vet_54454194abf048518b62971dd3aa28a7,"bird, reptile, cattle, exotic, aquatic, pet",2.9,92,2024-05-30 16:32:44.304
+vet_54a8deeef5c44214a20db9bd51111f45,reptile,2.5,52,2024-06-01 22:17:20.754
+vet_54ea87a0c3cc41fe93ce96d2e623dff4,"reptile, pet, bird",1.2,158,2024-06-19 03:18:18.473
+vet_552542d1c2a8482d8f64614a32c5ae1f,pet,3.7,134,2024-05-10 00:59:25.862
+vet_55355e3d9dee4d3a8646d228eebccbbe,"reptile, cattle, bird, aquatic, pet",4.1,55,2024-05-22 08:26:11.536
+vet_556c3709804041a5873b1dd871dc2640,"reptile, pet, cattle",3.6,124,2024-05-12 07:59:36.778
+vet_559403f46f2d4c9ba1b87f20dc6e0fa5,bird,1.2,156,2024-05-06 03:50:29.919
+vet_55a3251fe7a546168246d8eff7e3bac4,"exotic, bird, cattle",4.4,173,2024-05-03 03:49:26.568
+vet_567b44c06e4642ef9bdd15a0328328be,"bird, aquatic, pet, reptile, cattle, exotic",3.9,164,2024-05-21 03:15:45.484
+vet_56f5fe3d9ff741b689784ae8e03b9702,"exotic, bird, aquatic",4.3,22,2024-05-16 18:04:52.893
+vet_56f6fee5fba44a5b9982e6b02979e4c6,"reptile, pet, exotic",2.9,197,2024-06-08 00:00:14.921
+vet_577021c0acb5485f9e11ac11dbcd370d,"aquatic, bird, exotic, reptile, pet",2.1,146,2024-05-03 23:14:55.991
+vet_5786fc688bc54c52bfeee06595b7ad93,"exotic, pet",2.6,92,2024-06-20 14:00:47.622
+vet_5787f44231114202ba949084943eb390,"reptile, pet, cattle, exotic, bird",3.7,138,2024-05-29 01:49:27.384
+vet_578db42fa52e4d4a92746bbf009e69aa,"exotic, aquatic, bird, pet, reptile",3.4,1,2024-05-16 23:31:55.329
+vet_57e67b5dfced4cf9a16141fbb80781c3,"reptile, pet, bird, cattle",1.5,191,2024-05-25 07:03:55.202
+vet_586d8cfbf7c646f79881a5393daff6f1,"aquatic, pet",3.0,113,2024-06-05 17:20:16.621
+vet_587bae280f234cab8bee05da2995b389,"reptile, pet",2.4,136,2024-05-23 14:01:55.139
+vet_58e81cc0808b4bd199571fed9d29c8d2,"reptile, cattle, pet, exotic",1.4,103,2024-05-20 23:49:07.137
+vet_59281fc35a774bad994e71d2d7ed4347,"aquatic, pet, reptile, exotic, cattle, bird",3.3,197,2024-05-02 08:47:14.566
+vet_5939aa124f0c47c0b73931b489a9e43d,"bird, cattle, aquatic, exotic",3.2,89,2024-05-13 11:57:30.434
+vet_595f829996b147128e3a008d44cce764,"exotic, bird, aquatic",4.1,144,2024-05-17 07:39:24.987
+vet_59d0884b0d1341ecb3b0e9ef29095911,"bird, aquatic, cattle",4.8,126,2024-06-01 06:35:52.619
+vet_5a117ee0b2ab48f785034a14cc7f26e3,"aquatic, pet, exotic",1.0,14,2024-06-10 04:58:44.908
+vet_5a4b911721904d9099457add313a1708,"reptile, pet, cattle",2.5,99,2024-05-28 03:05:44.193
+vet_5a85dbefd37c4785b2f5e8366ba30fba,exotic,1.2,141,2024-06-13 06:59:47.781
+vet_5b0eb1530df640b0a16f142719f35ff3,"exotic, reptile, pet, cattle, aquatic",1.7,167,2024-05-25 18:35:18.03
+vet_5b574de0ee0544cdaa5f802bd417919f,"exotic, cattle",3.0,34,2024-06-17 17:38:55.71
+vet_5b680ff01ef741fca7a37242b7b0042b,"exotic, cattle, bird, pet, reptile",4.4,5,2024-05-17 15:43:37.970
+vet_5b7f9a13b0184ee297e45dc0e65a355d,aquatic,4.7,186,2024-06-20 08:24:50.882
+vet_5b864b34dedf4d4eb6105ff27c387c05,"exotic, bird, aquatic, pet, cattle, reptile",5.0,54,2024-05-02 00:28:19.18
+vet_5c3555c9ae17453aaba0d3b515886e17,"reptile, exotic, pet, aquatic, bird",1.9,162,2024-06-01 17:42:55.505
+vet_5d61cd3728b94dd9a06d8defe4a1dafc,aquatic,2.4,198,2024-06-17 06:32:26.189
+vet_5d7ba8b2ba5242f4a256e727e41f7a88,"exotic, pet, reptile, bird",1.6,100,2024-06-09 03:39:12.883
+vet_5e08f7a9c9454b7caca374980c20d038,"pet, cattle, bird, exotic",2.3,19,2024-05-15 13:38:13.896
+vet_5e33fe67ce3947e78bd9b609f12af48b,"reptile, pet",4.1,10,2024-05-06 17:30:59.525
+vet_5f00aeef9c164353a7eaeeaf7e5a4b3c,reptile,2.1,113,2024-05-11 01:34:12.138
+vet_5f494d8bbd7c47949e800eb000c85f65,"cattle, exotic, aquatic",1.8,119,2024-06-01 05:44:04.23
+vet_5fc9503758654aa5b9cfa566c60ef3d2,exotic,4.8,133,2024-05-03 16:12:43.71
+vet_5fd9d6f2703a4b2e9220fb17e94f51fc,"cattle, exotic, bird, pet, reptile, aquatic",3.6,31,2024-06-14 18:11:37.874
+vet_6092880a86454afdb9626ca43ca12053,"bird, reptile, exotic, cattle, aquatic, pet",2.1,48,2024-05-08 18:54:52.324
+vet_6095370a90ba4fc28471a64fcffb331a,"reptile, bird, pet, aquatic",3.8,8,2024-05-19 00:50:08.611
+vet_60f2ed15075f453fbc4294c1981b5600,"reptile, exotic",2.3,188,2024-05-28 06:09:54.417
+vet_6108d505aaec43e8a4925847695a94aa,"reptile, aquatic",2.7,99,2024-05-24 17:25:59.670
+vet_6173c45c0ea640f9a3b991c9cecd5cdb,"aquatic, bird",4.4,30,2024-05-30 06:46:08.788
+vet_6179645d62d74ec0adfe9cc4a9b61728,"aquatic, reptile, exotic",3.9,96,2024-05-26 15:56:06.940
+vet_6189b350f12e453f94e19a36f134589c,"pet, reptile, aquatic, cattle",3.5,132,2024-05-29 22:35:58.705
+vet_6197352772eb45f98fa2bbfaec4fc3d9,cattle,3.5,25,2024-05-25 05:38:22.803
+vet_61b98b6f229842c7929749c1421c5d65,"exotic, bird, aquatic, pet",2.7,116,2024-06-01 12:45:15.35
+vet_626d60c73f664fc0ac853a6188bb555a,"exotic, bird, pet",1.8,53,2024-06-10 20:34:54.58
+vet_62bc1618cb5c4c418bc8dc72bd827628,"aquatic, cattle, exotic, bird, pet",1.3,107,2024-06-10 10:53:54.47
+vet_62eed3f89cd742bb8fed1f0a68ad5c3b,"cattle, exotic, reptile, aquatic, pet",1.6,110,2024-06-08 18:18:50.147
+vet_63621d59bd754c84ae3a436e93459549,reptile,2.4,2,2024-05-06 17:19:14.563
+vet_6374fa53fe054006b926b5181b35da97,reptile,4.5,175,2024-06-15 00:31:27.629
+vet_63d79e732a5949548742fdc515d39974,"bird, cattle, exotic, pet",4.1,46,2024-06-05 02:58:42.770
+vet_63e45cb62d3347428bd57b086d0baf28,"aquatic, bird, exotic, pet, reptile, cattle",2.4,48,2024-05-29 18:13:54.939
+vet_63f02d4eab144d079778aba1c4ee6b16,"aquatic, bird",2.8,180,2024-05-25 01:24:08.907
+vet_63f1350a54224871979e1313bdbea881,aquatic,1.7,94,2024-05-11 17:37:01.495
+vet_63f3f14facc148c082aa11997cb55133,"aquatic, cattle, exotic, bird, pet, reptile",5.0,122,2024-06-11 14:33:46.439
+vet_6435da18e9c84631b19d8d5795eebeb9,"exotic, bird, cattle, pet, reptile, aquatic",4.0,137,2024-05-30 10:57:04.169
+vet_646660115bcd488a93381310ccadfdcf,bird,4.3,0,2024-06-09 02:01:11.632
+vet_64aeb313ee0a40c39f590a583c2a78b1,"reptile, pet, bird, exotic",4.5,15,2024-05-29 09:41:21.819
+vet_64dcc83a16944958b5ffdbfb361bf9c7,"cattle, aquatic",1.4,17,2024-05-12 19:13:14.992
+vet_6556839e1e044503853b05398b244c35,"bird, reptile, aquatic, exotic",2.5,34,2024-06-05 15:50:36.143
+vet_6602d501d3a2454390d95aae42dab981,"cattle, exotic, bird, pet, reptile",2.5,185,2024-06-10 13:54:09.333
+vet_6605102e95c547529258f02fac9972a9,"aquatic, reptile, pet, bird, exotic",2.3,51,2024-05-21 09:17:53.27
+vet_660e99af10124edba0cc2e8179f692a2,"exotic, pet",3.6,67,2024-05-05 07:20:01.760
+vet_661ee07c9cdb44e1801deb0a537cb48d,"cattle, exotic, bird, aquatic",2.4,177,2024-06-10 20:09:32.530
+vet_66945d1e30c444da954aa5b0d413729d,"pet, cattle, exotic",3.7,47,2024-05-25 05:13:53.55
+vet_66c9790a7a7f440c92b1b770a5b54a47,"exotic, bird",1.3,73,2024-06-09 15:10:42.60
+vet_66ebc7295c834b36a49ce50273a1b573,"exotic, reptile",3.7,9,2024-06-17 02:55:55.106
+vet_66f453c1fee04c76a2057d9061d56478,"reptile, aquatic, pet",4.1,47,2024-06-13 02:33:36.512
+vet_678e157a5ae244be98186de9a2899e5c,"bird, pet",1.2,8,2024-06-13 07:53:23.582
+vet_67d51325fca04388b70207f5200e48c0,"reptile, pet, aquatic",3.5,104,2024-05-16 16:20:58.425
+vet_67e75cb03cb543d39d19837b35856853,"cattle, bird, exotic, aquatic, reptile, pet",4.9,51,2024-06-16 02:18:18.912
+vet_68b3446303424476a1ae5084dffbd69f,"reptile, aquatic, pet, bird",4.2,138,2024-05-10 21:16:36.281
+vet_68c47057e6ed4c9ba6257bb9a66a29b8,"reptile, aquatic, bird",2.8,33,2024-05-07 22:03:31.568
+vet_68e9d2788d2c448c90a47ac091698c6e,"reptile, pet, aquatic",3.0,63,2024-05-19 02:54:02.930
+vet_69fdb5f7122e449d930e00a7a8dff208,"reptile, pet, aquatic, bird, exotic",2.2,13,2024-06-11 20:03:35.224
+vet_6a24e81876e24b90a0702c4218bb1e86,"reptile, exotic, cattle, aquatic, bird, pet",1.7,91,2024-06-16 14:53:55.811
+vet_6a85444d96324201b5c51db3c55b38c9,"reptile, pet, bird",4.1,27,2024-05-08 02:18:43.511
+vet_6aa34d831da046d8be21e093d03750ef,"reptile, pet, cattle, bird, aquatic, exotic",4.0,5,2024-05-29 16:07:19.984
+vet_6ac8693ce8314b728da2c2c14758eadd,reptile,4.7,62,2024-05-16 17:31:43.646
+vet_6b2147753d2b4a89a66199c1dca3b2ca,exotic,2.1,66,2024-05-30 13:12:11.904
+vet_6bcce4785e7244c78271a24fa4eb50b4,"cattle, pet, aquatic, exotic",1.7,41,2024-06-05 19:50:02.685
+vet_6bda5127648b43bf8ee20fb9aaeff281,pet,3.0,116,2024-05-07 20:15:10.81
+vet_6c5cd4b9282f435abbc173438fa90d95,"cattle, exotic, aquatic, bird",3.9,83,2024-06-04 13:45:56.76
+vet_6c930a9dc0574cd793279e2893ff9ebb,"cattle, exotic",1.4,135,2024-06-14 05:02:51.613
+vet_6cbc48e3bfce4538b71678092fb4f429,"aquatic, cattle, exotic, bird",3.7,84,2024-06-06 02:34:44.894
+vet_6d5c7c03faa64267a1751bccb3cdcecd,"exotic, aquatic, pet, reptile, bird",2.8,128,2024-05-18 09:14:00.811
+vet_6d7b455682b7443987d20a562a7693ae,"pet, reptile, cattle, aquatic",2.8,125,2024-05-14 05:05:27.516
+vet_6d96d6eebd1549549263df709822ce4a,"pet, reptile, exotic",4.6,41,2024-06-09 22:35:10.843
+vet_6de7dde850724d7b8e92b40f23ad3089,"exotic, bird, pet",4.9,73,2024-05-07 23:31:39.205
+vet_6e135130b5c74b43941c4d7501f0f0eb,"bird, aquatic, pet",1.5,145,2024-06-17 18:40:35.134
+vet_6e27eba9df0d48dba78099c1730e7b00,"pet, aquatic, bird",1.6,82,2024-06-10 20:58:32.773
+vet_6e519dcccb0343519f2683a3b06989c8,"aquatic, pet, exotic, bird",3.0,0,2024-05-23 11:16:33.937
+vet_6ebc58b13a6545e2a490762de806da56,"reptile, exotic",2.2,89,2024-06-11 03:36:02.742
+vet_6eecaabe75d44799aba2fa3e505ec305,"reptile, exotic, pet",4.0,116,2024-05-25 06:05:04.121
+vet_6f7cce11795c42828db554cd802ac23a,"bird, pet, reptile, exotic, aquatic, cattle",3.3,107,2024-05-17 23:14:02.73
+vet_6fa64c4e09274f8b8e509af0dfa4e83d,"reptile, exotic, cattle, aquatic, pet, bird",1.8,126,2024-05-12 07:54:44.465
+vet_6fcc9d448b124bd9a1b1d4827ec58930,"bird, exotic, aquatic",1.9,153,2024-06-18 15:57:31.913
+vet_6fdb82e14a0f46b39f05b7d574b4abf1,"exotic, cattle, reptile, aquatic",4.0,121,2024-05-18 00:37:56.00
+vet_6ff43ed820bf4a1395096baee7750c2b,"cattle, exotic",3.0,78,2024-06-12 08:12:50.985
+vet_6ff4b32228bd4b9bb8a62599fa9f4934,"exotic, pet, aquatic, bird, reptile",2.9,50,2024-06-05 13:40:42.390
+vet_703aa5ef4c0047429dfd8b5800d7c8d6,"aquatic, bird, pet, reptile",2.7,199,2024-05-30 10:09:16.591
+vet_703ef0d42a474b70a1a477213453ec36,"cattle, exotic, bird",3.1,147,2024-05-30 13:07:07.276
+vet_70d463ac39c24b47b8edf9b43a2092b1,"reptile, bird, pet",1.8,181,2024-05-06 12:17:28.185
+vet_70e1f9976055422c9919f2dbba1cd724,bird,4.6,123,2024-06-18 17:52:43.90
+vet_71110656e8ba49428b5b932a1d125074,"exotic, bird, aquatic, pet",1.4,93,2024-05-05 19:51:52.464
+vet_715f8e9c6f1640bfbf5824b741be41cc,"reptile, exotic, cattle",2.7,8,2024-05-06 22:54:52.439
+vet_71791b57d427439ea9182406409be465,"exotic, cattle, aquatic",2.0,59,2024-05-03 12:55:14.102
+vet_718643e89bbd4fd3beaea2bf8b24a8ec,"reptile, cattle, aquatic",4.8,152,2024-05-07 19:27:20.138
+vet_7297f268795c44cabd3922fc7dc2944f,"aquatic, pet",2.2,147,2024-05-30 23:25:29.532
+vet_72a943876b53462c8f5a805e1aa9a77f,"exotic, bird, pet, aquatic, reptile",4.1,197,2024-05-09 07:00:23.348
+vet_72b3ecb73bf445559990e77fefdf7c8b,"aquatic, reptile, pet",3.0,9,2024-06-15 03:29:38.488
+vet_72d029af358d4ef8a367e0d079fdbf9a,"pet, exotic, cattle, bird",3.8,98,2024-06-11 18:49:51.295
+vet_74069187ebce487d8db56479ccb8b688,"exotic, cattle, aquatic, pet",3.3,38,2024-05-23 14:38:43.286
+vet_745860972eb04996a4ce024c3b00451f,"reptile, pet, aquatic, bird",4.5,75,2024-05-22 11:05:10.874
+vet_74a144ceb80b4fc0ab43e17f8edba2e3,"bird, cattle, pet, aquatic, exotic",4.5,184,2024-05-24 19:21:43.609
+vet_7506287b5ca54400992bee785e5c79a3,"pet, cattle, aquatic, reptile, bird, exotic",4.4,151,2024-05-06 07:13:23.753
+vet_750c9fc2c0534c31a45bc454bfe5b86f,exotic,4.9,73,2024-06-19 17:22:51.140
+vet_75d2acea0aa7443ca7760ba78452b8b8,"exotic, aquatic, pet",1.5,191,2024-06-02 14:29:06.492
+vet_760f08b944dc4adcab4711c567bfeedf,"exotic, reptile, pet, aquatic, bird, cattle",3.2,31,2024-06-02 03:54:53.604
+vet_76208f5e40cf4d5aad6b211d010a4862,"cattle, exotic",3.2,45,2024-05-12 14:10:33.673
+vet_76768b1e0e1040d48cb11dc0234954a7,"exotic, aquatic",3.0,64,2024-05-18 23:47:42.538
+vet_7686b0a4c40a439c950186448a00cc11,"reptile, pet, bird, exotic, cattle",3.8,53,2024-05-15 20:25:44.973
+vet_7732e54dfff84a95ac8f785c6b53c492,"bird, exotic, reptile",1.1,9,2024-05-08 22:07:50.443
+vet_774897303ec54c7aadaf955e4592e2b0,"bird, exotic, pet",2.4,75,2024-06-13 17:00:22.43
+vet_77503e68e28e44f2857148e7b84d0c35,"reptile, pet, exotic, bird, cattle, aquatic",3.3,57,2024-06-17 06:14:04.492
+vet_776bfe6bdbd74e7a96eec38a2e2ee7f9,"reptile, pet, bird, cattle, exotic",3.7,87,2024-05-15 00:10:23.151
+vet_776db2587a6e45cab78a960b5d61107c,"reptile, pet, bird",3.2,105,2024-05-01 07:03:42.518
+vet_7771fe4dbc634c68b2dd53d5bde8bd95,"exotic, pet, cattle, reptile",2.8,160,2024-06-09 20:21:57.976
+vet_77bfacf30eb248c5bdcb3b4ea136d76e,"cattle, pet",4.7,23,2024-05-09 17:21:55.749
+vet_7800516c720045c09a1eac627cd60f8e,"exotic, reptile, pet, aquatic, cattle, bird",3.6,3,2024-05-31 07:50:28.553
+vet_78192bc030c444df854487a91b755b68,reptile,1.4,79,2024-06-07 04:34:32.20
+vet_78388bf5e5324a11b5285aad5d6e52cf,"cattle, reptile",1.3,170,2024-05-03 22:04:04.152
+vet_78a884fd2b684f839878d0755fd048c9,"cattle, exotic",4.4,178,2024-05-14 18:15:11.514
+vet_78aae814f84e47eba7cc0e469b37c11d,"reptile, pet, aquatic, cattle",1.3,6,2024-06-12 09:48:23.659
+vet_7a266559bb184ac696a05a2c9fcd6cbd,"aquatic, reptile, cattle, pet, exotic, bird",1.3,103,2024-05-26 10:33:06.60
+vet_7a56bee808e04c7894dd814c5c543315,"aquatic, reptile",3.3,48,2024-05-31 05:27:19.466
+vet_7a56d88ead834b929535b5a8cd41d175,"aquatic, pet, bird, cattle",3.3,48,2024-05-15 02:52:06.589
+vet_7b0413fab278426a87a3304cc177e7f6,"aquatic, reptile, pet, cattle, bird, exotic",2.3,1,2024-06-08 20:22:08.700
+vet_7b0ad015436642d294aa8ff223900b6e,cattle,1.0,114,2024-05-30 20:47:13.931
+vet_7bf1af139e444ee19d309a8f6b741a64,"cattle, pet, exotic, reptile, aquatic, bird",2.3,95,2024-06-01 22:05:32.418
+vet_7c01f6ba7c084eaa81984777ae579c38,"reptile, pet, bird, exotic, cattle, aquatic",2.7,150,2024-06-15 18:29:33.761
+vet_7c3ff1e7bd6e4f3c9e6d57ee9af51c90,"aquatic, cattle, exotic, bird, pet",1.4,52,2024-05-13 05:17:57.48
+vet_7c589eb2576047dcbec2a56a5af02d1d,bird,1.1,112,2024-05-04 06:51:33.411
+vet_7c5f4d4de42846ba83d5d73f019f0d08,"exotic, cattle, aquatic",4.3,172,2024-06-13 09:35:08.698
+vet_7cab1a36400b4d9a83fcab0794a5a810,"pet, reptile, bird, exotic, cattle, aquatic",3.8,148,2024-05-04 06:26:48.414
+vet_7ceeba06001548e58347e4c93e3091b3,exotic,3.9,61,2024-05-18 07:11:53.732
+vet_7d26d8adf9ee46e399cf8fd78a575e7c,"cattle, bird, exotic, pet",2.4,62,2024-05-14 08:09:39.627
+vet_7d48a9a03cc14434b7e221538ded9403,"reptile, pet, exotic, bird",1.7,164,2024-05-28 23:05:10.230
+vet_7db0e317b31c4deab25769e154f12bb2,"aquatic, exotic, cattle, bird, pet, reptile",3.3,95,2024-05-26 14:43:52.750
+vet_7de16f340c3a47c89eedfb36fd2c84af,"reptile, aquatic",3.3,1,2024-05-04 07:52:53.594
+vet_7debf7a120e5462990daeabdb8064ba0,"cattle, reptile",3.0,61,2024-06-05 22:22:10.301
+vet_7e10d518116240419f6fda44cb0dca6c,"exotic, bird, cattle, aquatic",1.4,76,2024-05-22 10:58:22.779
+vet_7e11734628ff44baa2220f2cda74a66a,"reptile, pet, bird, aquatic, exotic",4.1,186,2024-05-27 16:50:26.399
+vet_7e8853cf6e12465aa4308b72122ba17e,"bird, exotic, cattle, reptile, pet, aquatic",1.7,151,2024-05-04 06:18:55.472
+vet_7ea1d854af934265861583dc04ac16e2,"aquatic, reptile, pet, bird, exotic",1.2,197,2024-05-16 16:20:44.733
+vet_7ec5084c85fb4763b808533708d52013,"reptile, cattle, pet, aquatic, bird, exotic",3.3,169,2024-06-03 02:20:45.440
+vet_7ee04a340ae346a1badeeb02bd2503b9,bird,4.4,70,2024-06-04 05:15:37.709
+vet_7ef9ac6a12e74d3fa1194fbc17fcbf27,"bird, exotic, aquatic, reptile, cattle",4.7,80,2024-06-15 22:08:31.594
+vet_7f4bd5830643489f9d11289911de6e3e,"reptile, pet, aquatic, bird, exotic, cattle",1.7,109,2024-06-02 19:18:42.244
+vet_7f99f6ca0dde45a1b3d1e7690c94dd86,"cattle, exotic, bird, pet, aquatic, reptile",2.8,32,2024-06-08 08:22:03.590
+vet_7fe842e60d4b4f64ba30777c26efcf60,"aquatic, cattle, exotic, bird",4.4,30,2024-06-08 10:36:50.872
+vet_7ff88f6a9e324c7e8c3ed8fc2e5a6e96,"exotic, cattle",4.0,139,2024-06-16 03:37:36.967
+vet_807e196c5bd9406fa09659f5c1ac583f,reptile,4.2,107,2024-06-08 06:39:03.616
+vet_80b87f939a194eeb989111ca2ce5a60f,"reptile, pet, aquatic",1.6,51,2024-05-04 05:22:11.929
+vet_8116673eb2444b819a279cea2077bc0b,pet,1.8,103,2024-05-14 04:28:14.963
+vet_816c2ae6199c47a780a0887915bef6f9,"aquatic, pet",2.4,28,2024-05-29 02:02:41.646
+vet_8171b53e7bb44784a204567166b9ed00,"aquatic, cattle",3.9,169,2024-05-09 22:26:11.873
+vet_817c4cea3f1947de921cd290e2a57148,"reptile, pet, aquatic, exotic, cattle",2.1,67,2024-05-21 07:17:35.168
+vet_81a1e5ae277c49ab835779a879d83472,pet,2.1,27,2024-05-27 17:26:09.471
+vet_81fe3cb762e74f8692c5395e4c999c52,"exotic, bird, aquatic, pet, cattle, reptile",4.3,186,2024-05-11 15:17:40.220
+vet_82108f9a79c84cff8766d51a8aaaf477,"pet, bird",3.5,112,2024-05-06 01:03:54.550
+vet_821a4717b2cb45ff9c846373e18f899a,"exotic, cattle",2.0,2,2024-06-14 20:02:35.965
+vet_8239d63dd0594d56bc3e8a0bd2972262,"bird, reptile, aquatic",2.2,156,2024-05-26 21:53:59.676
+vet_82432248209a49ff8a74c25ca9e57e63,"cattle, exotic, reptile, pet",4.5,119,2024-05-05 07:55:51.950
+vet_8259c52f4e3744148320af61223a0962,"reptile, pet, exotic, bird",3.6,136,2024-06-12 09:06:35.382
+vet_82612f501b8a47d6a694a8986bbd5995,"reptile, pet, bird, exotic",1.3,104,2024-05-13 16:00:49.548
+vet_828e8dc687bc49dcac9a688b6855cd47,"reptile, pet, bird",1.7,133,2024-05-22 21:46:10.354
+vet_82d48f095f70423283dcf082a984c996,"pet, exotic",2.7,63,2024-05-28 16:15:18.51
+vet_82ece31774504220a19900c36378b59b,"exotic, bird",1.9,0,2024-05-10 08:29:45.595
+vet_82ee548efdf5438b95690e5c26e7d116,"aquatic, reptile, exotic, bird, pet, cattle",2.7,183,2024-06-13 19:27:41.11
+vet_82f4280020ee4c4594784d03186f17c3,"exotic, aquatic, pet, reptile",2.6,131,2024-05-10 12:18:03.750
+vet_834e449f75f14b2f9d807a04419070cf,"cattle, reptile, pet, bird, exotic",2.4,123,2024-05-04 01:42:40.992
+vet_8353dbcc0ef04646853b6934811b026a,"reptile, pet",4.3,163,2024-06-03 14:29:57.601
+vet_836f601b075d4eb0a43644ef61e8ff69,"exotic, reptile, pet, cattle, bird",1.1,55,2024-05-11 05:26:34.64
+vet_837cdef200e849fdb01ca363edb4f85b,"cattle, bird, reptile, aquatic, pet",1.6,192,2024-06-16 03:00:26.528
+vet_842e87104d684fdda6a3d4cbbd7aae17,"aquatic, cattle, bird, pet",2.7,182,2024-06-05 06:50:30.735
+vet_8459dd1f5e254527988f667d0636edf8,"cattle, aquatic, exotic",3.4,84,2024-05-04 14:22:05.997
+vet_848533faa0c84085a3a6158b45b78bcc,"bird, pet",1.4,198,2024-06-15 01:24:22.317
+vet_84ce1a9189a0440db63e34ba893830c9,"cattle, aquatic, exotic, bird, pet, reptile",2.4,45,2024-05-24 22:46:53.960
+vet_84e5d141a0664d628de79072b3b5941a,"exotic, aquatic, bird, pet, cattle",3.7,125,2024-06-01 12:50:37.994
+vet_84f32e8568c5486ba3fb8e9df597631d,"pet, exotic, bird",2.7,121,2024-06-06 19:42:04.130
+vet_8511f89655ef4186aab670a7392c676b,"reptile, pet, bird",4.4,38,2024-06-19 11:05:57.896
+vet_85364c26ab3c4cc0b3ff063cd3096f1b,"exotic, reptile, pet, cattle",4.5,4,2024-05-08 22:02:38.68
+vet_8547045341ce4d159d8056724016e6b4,"cattle, pet, reptile, exotic, aquatic",1.5,161,2024-06-17 18:22:34.928
+vet_857f211c669949d5807b5a9f87afb05d,"reptile, pet, aquatic",1.3,163,2024-06-03 22:40:59.121
+vet_85c91a56b0644b93b5bc4ae6139c9766,cattle,1.9,163,2024-06-13 03:22:08.48
+vet_86ab9c3896d9448a80a861a2566e810a,"cattle, exotic, bird",3.8,156,2024-05-06 12:33:28.132
+vet_87086cbfc85d4b98849c3f521a706934,cattle,4.4,48,2024-06-20 14:21:03.483
+vet_872f1852d10c4adf90afeab3c33eeea6,"reptile, pet",2.7,13,2024-05-18 05:47:32.79
+vet_8789f84a5463466c867bbb15b64d372c,"exotic, cattle",1.2,68,2024-05-21 13:19:50.785
+vet_87c4f3307aa145d59b13a99e77185e01,bird,3.9,145,2024-05-08 12:52:20.311
+vet_87d61481d95e4209be5cf01a486e24f0,"reptile, cattle, pet, exotic",5.0,140,2024-06-19 21:34:42.08
+vet_887eea8f489e43f998e7e6faf4b82c86,"reptile, pet, exotic, bird, cattle",1.8,105,2024-06-20 10:55:34.854
+vet_889e6a66d2c341c3a6392baf1c2351ea,"cattle, bird, pet",1.9,46,2024-05-30 14:24:58.836
+vet_88d077d4789d45e39d2c62fee89e9009,"pet, aquatic, reptile",2.9,86,2024-05-27 04:24:05.343
+vet_88da9785276744d18b3129b91d36ff72,"aquatic, pet, reptile, bird, cattle, exotic",2.4,104,2024-06-05 23:52:10.927
+vet_88fa0362ee09414e8823bf359ca13f44,"bird, aquatic, pet, reptile, cattle",1.8,154,2024-05-17 18:29:39.408
+vet_8963ac57e5954fab8055662af8184ce3,"cattle, exotic, reptile, pet, bird, aquatic",1.2,174,2024-05-14 06:06:49.863
+vet_89736974a1194e7699e4f287e623968f,"bird, cattle",3.8,88,2024-05-13 01:22:07.324
+vet_898a1e4281c24a60b23318f1d7659b2e,"cattle, bird, pet, reptile, exotic, aquatic",4.3,21,2024-05-30 16:25:38.201
+vet_899484b1bd7b4d6ea614fe8c1cdd2f6a,"bird, reptile, pet, exotic",3.6,199,2024-05-08 04:21:41.881
+vet_89c881113d19416aa8499a48afeb0eb0,"cattle, reptile, aquatic, pet, bird",4.3,190,2024-05-04 03:23:29.423
+vet_89efdbbea66e4c05ae84362f03ba87b4,"cattle, exotic",1.8,108,2024-05-06 16:37:32.560
+vet_8a004a9c6c0c4efd894971eb624025be,bird,1.2,97,2024-05-28 21:46:20.817
+vet_8a247077d6b74d168166581cbe93793c,"aquatic, pet, bird",4.2,74,2024-05-05 04:22:18.431
+vet_8a39fd129fad4f49a8db4c10d089442f,"exotic, bird",4.5,109,2024-05-18 06:20:58.882
+vet_8a67579f1b4f4a32b5b6f6d4fdd66e99,"aquatic, cattle, exotic",4.7,147,2024-06-09 20:14:42.672
+vet_8b64381ce47643e793fe9dcdb09ad766,"cattle, exotic",2.2,88,2024-05-19 03:45:43.989
+vet_8b64a7fff6a04bb99fd83754de660074,cattle,4.7,183,2024-06-09 15:03:12.962
+vet_8ba53b5f6d5a4716821e487033f657da,"aquatic, cattle, exotic, bird, pet",4.1,193,2024-05-30 18:33:36.280
+vet_8bcfc2018e934c129d57b199605717a1,"pet, reptile, bird",3.6,111,2024-05-13 05:18:22.14
+vet_8c54dc6e33f6449797f82824b350b822,exotic,2.8,175,2024-05-21 21:09:32.442
+vet_8c5e69d63f0941228b54cf5813f2b510,"aquatic, cattle, reptile",3.8,17,2024-05-04 08:31:23.992
+vet_8ca2644f70d64cf095cdf2ac52c957e4,"cattle, reptile, pet, bird, exotic",2.4,170,2024-05-11 05:57:46.567
+vet_8cb711c14bc849159cc2ad43cf001527,"bird, exotic, cattle",1.1,133,2024-06-13 18:17:23.892
+vet_8cd3ef8b0c08492e8f169e5cb58758ba,"exotic, aquatic",2.4,138,2024-06-04 19:55:36.159
+vet_8d066319f33e44b7bbed28313b59ce54,"exotic, cattle, bird",4.2,90,2024-05-04 17:21:54.788
+vet_8d5908f7945a4b88a20125888c0cbf99,"exotic, bird, pet, cattle, reptile, aquatic",2.9,28,2024-05-06 13:39:24.53
+vet_8df74fbdce004bdc8602ff2b96da9e62,"aquatic, reptile, cattle, pet, bird, exotic",2.0,67,2024-06-01 09:13:16.197
+vet_8e3c0c3849204e69bfae0870f66378b5,"pet, bird",1.8,52,2024-06-10 10:43:08.844
+vet_8e8fde053b6647fd96302945609605ac,"cattle, exotic, aquatic, bird, pet",2.6,161,2024-05-16 04:15:30.561
+vet_8eab7425e2a54b02b340db57691e472b,"cattle, exotic, bird",1.7,128,2024-06-11 19:21:21.731
+vet_8ef0416bcef842298d113836cb2c4dfb,"exotic, reptile, pet, cattle, bird",2.6,33,2024-06-16 09:24:50.18
+vet_8f00c1cfbd2b4b2e9784da5b2e8dc8db,"aquatic, cattle, pet, bird, reptile",2.3,63,2024-05-15 01:12:10.876
+vet_8f6e6b285d6d466a804b12b22ec9f1bd,"exotic, cattle, aquatic, pet",2.5,169,2024-05-29 08:29:59.68
+vet_8fabc81deaed42d182f98b003f84e53a,bird,2.5,49,2024-05-12 19:05:31.324
+vet_903380a051a54a23a4872f028631f599,exotic,2.7,162,2024-05-31 02:09:17.402
+vet_90cc1ca2a55e4346ac727a4ab49c324f,"aquatic, cattle, exotic, bird, pet",2.4,156,2024-06-17 01:41:32.791
+vet_90eb43cf101d4cff9bc9827162184323,"pet, exotic, aquatic, bird, reptile, cattle",1.7,171,2024-05-17 08:18:49.134
+vet_9103a1bd4bc245129dc70dd6220cf6b4,"aquatic, exotic, bird, pet",4.1,97,2024-06-12 02:13:27.486
+vet_9109a78056c6497c9cba0222030dd2f8,"aquatic, reptile, exotic, pet, bird",1.1,52,2024-05-14 22:25:46.723
+vet_914daf2699094fdbbe40e12d0adbd726,"cattle, reptile, pet, exotic",1.5,2,2024-05-04 08:12:41.50
+vet_9177da552c6b492292486789cd12b9ff,"cattle, exotic, bird",4.7,63,2024-05-29 17:03:14.120
+vet_91add651300f4896ae24da2776456716,"reptile, cattle, exotic, pet, bird",3.0,18,2024-06-13 21:25:50.795
+vet_91b52da319b3406f88539afcdeb857fc,"pet, cattle",3.2,73,2024-05-15 03:59:18.20
+vet_91cffa06ca9045758489f68545eedab3,"exotic, cattle, aquatic, pet",4.0,67,2024-05-24 22:46:18.511
+vet_923a33f2de484c1aa2be69f1367d0b00,"aquatic, cattle, exotic, bird, pet, reptile",4.0,157,2024-06-15 15:27:40.390
+vet_925a690f88bd48aba974b65d4b58ac17,"cattle, exotic, reptile, aquatic",2.6,96,2024-05-27 20:46:07.505
+vet_928302a7e4864099927ade41233918e2,"pet, exotic, reptile, bird",4.9,76,2024-06-16 02:47:05.580
+vet_92c0411f135049a9a237e1033185b224,cattle,3.0,47,2024-05-30 02:41:53.846
+vet_93374ad32c7c4d86904913e5519f79c3,"reptile, pet, exotic",1.5,30,2024-05-30 01:47:18.400
+vet_9367951cac4b4ddbae11a336ec41f943,"reptile, pet",1.5,181,2024-06-07 11:05:26.258
+vet_936fe8bbf08a4c859ad63b393ce8f5cc,"exotic, reptile, aquatic",2.0,157,2024-05-03 15:22:37.387
+vet_9377dfc4cd4d452aa7482c5e39ca7552,"exotic, bird, pet, cattle, aquatic, reptile",1.3,4,2024-05-08 21:11:10.372
+vet_93bbb1b06f514a3cabe60315f30902e0,"aquatic, exotic, reptile",2.4,189,2024-05-07 02:39:34.977
+vet_93e299c1642b4d18bd9204f634a9bd3c,"exotic, reptile",4.8,5,2024-05-02 09:05:08.568
+vet_941b8d92396b486f9507adee0a358f14,"exotic, reptile, aquatic, cattle, pet, bird",2.8,116,2024-06-01 07:10:30.400
+vet_94c9753539dc441c9dde58ca1f341295,reptile,4.2,77,2024-06-18 18:25:04.204
+vet_94c9d573c78d4c32a10b611310fa0d00,"aquatic, reptile, pet, bird, cattle, exotic",1.8,54,2024-05-23 12:37:31.817
+vet_951f2d0e57514f19bcf82e177410901f,"aquatic, cattle, reptile",2.8,115,2024-06-16 06:58:21.221
+vet_9536022ca76f4df3a7aa6a2b4de2df4f,pet,1.0,54,2024-05-19 11:40:36.910
+vet_95c2a67a19684cd4a15f26a008714ad4,pet,2.3,17,2024-05-17 13:34:16.769
+vet_960bc1d47fbd419ea3efc29e9b2f02ba,"reptile, exotic, pet",3.3,115,2024-06-18 06:51:41.844
+vet_964a0b159bda4757aa442f0489b53218,"exotic, bird, aquatic, pet, cattle",1.9,96,2024-05-06 05:59:02.450
+vet_968e0c17350541daa6fb319973691cd2,"aquatic, cattle, exotic, bird, pet",1.9,105,2024-06-07 17:02:48.404
+vet_971dad0165b74544a2fb58ef56d7aa3c,"reptile, pet, bird",2.3,128,2024-05-21 01:33:13.445
+vet_97dc25df254a4ef78b18a973cc1c2d80,"cattle, exotic, reptile, pet, aquatic, bird",3.6,37,2024-05-28 01:13:26.859
+vet_97eb1a06b0b0488daf87df3f97342f4b,"bird, aquatic, exotic, pet, reptile, cattle",4.0,110,2024-06-18 03:10:09.259
+vet_984e1e8336de40b582171de713dee61c,"pet, exotic, aquatic",2.3,134,2024-05-20 16:28:16.704
+vet_9872d7c835da40db9f7c21dad1803516,"aquatic, pet, bird, cattle, exotic, reptile",3.9,50,2024-05-06 05:43:04.793
+vet_9882fa1e168a4c37ab9f01facfa3a103,"reptile, aquatic",3.1,170,2024-05-04 20:43:14.118
+vet_98c3868bc3f34d2288b61d89440a8c5a,"bird, pet, aquatic, exotic, reptile, cattle",1.0,138,2024-05-02 10:10:16.218
+vet_98cfbd9b211c46e0ae7f08caf9b2b491,"pet, reptile, aquatic",1.2,125,2024-05-19 00:28:16.598
+vet_98d8b070bd4d4151a79a15fa8960fe3c,"pet, reptile",3.7,132,2024-05-29 09:00:29.337
+vet_99384e99d3f94852927638fdc90488cb,"aquatic, cattle",4.0,81,2024-05-12 20:52:34.882
+vet_99a4d2777e084dd3ac8619f4f18f8ee9,"reptile, pet",3.6,1,2024-05-08 02:01:34.799
+vet_99b04311462e494cacc15e980a7b7719,"pet, reptile, bird",1.4,84,2024-06-12 20:27:41.98
+vet_9a3df0c0bf7b4e76b2c3d0ed71fca738,"reptile, pet, cattle, exotic",2.7,106,2024-05-05 10:46:12.296
+vet_9a5fd124c35046ac8020984689ec0e25,cattle,2.6,69,2024-05-26 20:18:24.165
+vet_9a7d6132c8b54d04858f664f151bf1c6,"reptile, exotic, cattle",4.8,127,2024-05-01 04:37:08.15
+vet_9a98e825024249b897e4973a7a280e37,pet,3.0,121,2024-05-13 15:28:40.462
+vet_9ad59e1d296e439189863b3b710f1083,reptile,1.8,140,2024-06-02 15:08:19.808
+vet_9affb8ea34664b1cb4d4bb0195585293,"reptile, exotic, pet, cattle, bird, aquatic",2.1,2,2024-05-30 10:17:34.312
+vet_9b2d156cc2cf4324a0c0f01739d6b18a,aquatic,4.8,105,2024-06-05 09:42:29.582
+vet_9b6a17623e1546bb98410745788d4dfc,"pet, reptile, exotic",2.3,135,2024-06-11 01:47:34.03
+vet_9b6c06af39df469c819d9e88543e1949,aquatic,4.9,172,2024-05-18 10:52:26.846
+vet_9bd7854e56664628b8b01d2db79a1ce3,"reptile, exotic",4.1,5,2024-05-01 21:38:43.560
+vet_9c69bb808a20492caddce34d66b1d473,"cattle, exotic, reptile, pet",1.7,82,2024-05-25 15:34:53.291
+vet_9c8a5b90c8da4453ab75b5a5f8cd80fa,"aquatic, bird",4.3,71,2024-06-16 13:24:02.579
+vet_9c9374ff3041478b93f38c05724182de,"exotic, pet, reptile",4.8,35,2024-06-14 04:00:14.163
+vet_9ccec9ef18fc49edae2de5cab4b67099,aquatic,2.2,151,2024-05-15 13:22:35.539
+vet_9cdb80e3ed8e48048f4c5d116a93a09d,reptile,1.5,138,2024-05-24 06:49:36.692
+vet_9ceb206819c84017af097bd52f90bc60,"bird, exotic, pet",1.2,143,2024-06-02 17:13:51.834
+vet_9d1eadedc1d24caa93dcfc0efa0b0e68,"exotic, bird, pet, reptile, aquatic, cattle",4.2,195,2024-05-14 02:32:59.884
+vet_9d34ddfbeada4fa0a2d0b9de27d0850c,"bird, cattle",2.4,88,2024-06-03 09:46:27.498
+vet_9d43086c56b5467d9a233e250af9cbf2,"pet, bird, cattle, exotic, aquatic",4.7,119,2024-05-29 12:25:18.460
+vet_9e01527f50074e98a8c77b570f87d5a5,"bird, pet, reptile, exotic, aquatic, cattle",1.4,27,2024-05-25 08:26:58.538
+vet_9e41e53e9a204c0b94863f0de6cceddd,"reptile, cattle, exotic",2.3,9,2024-05-01 08:45:39.475
+vet_9eefb7734d124587aafb802d814835bc,"reptile, pet, aquatic, bird",4.1,36,2024-05-08 15:43:05.446
+vet_9f79ca9d02d44df2b45dbba48cd72038,"aquatic, exotic",3.8,30,2024-06-17 11:44:20.875
+vet_9f7b5a3f1151414ca0b090b8e67ce01c,"reptile, pet, exotic, cattle, bird, aquatic",3.1,94,2024-05-12 18:09:24.751
+vet_9fb4fe67ea3645c4bf663916b832d3e6,"reptile, aquatic, pet, bird, exotic, cattle",3.5,79,2024-05-22 01:28:51.365
+vet_9fe5c7faecc84db9b5ef4ac0bdef3463,"reptile, exotic, cattle, bird",1.7,187,2024-05-14 10:29:14.273
+vet_a01719f14fa6449ab00e579b51e8d60e,"reptile, exotic, pet, aquatic, cattle, bird",1.0,27,2024-06-02 04:49:31.295
+vet_a024d8b72e43484088da80e1a8d768b6,"aquatic, bird, reptile, exotic",4.6,3,2024-05-16 11:24:35.623
+vet_a041f289832142119fec5307af6fd0a1,"aquatic, cattle",4.8,122,2024-05-13 18:47:52.165
+vet_a056b99bd431415a910cfe8ca1d66ea0,"exotic, bird, aquatic, pet, cattle, reptile",3.8,162,2024-06-01 05:04:58.414
+vet_a09591c871624b288e6542cdb68405e2,aquatic,2.4,81,2024-05-28 15:50:36.562
+vet_a0b092b8501b45a1a3f02a4c0ff640bb,"pet, aquatic, reptile, cattle, bird",1.6,43,2024-06-13 19:13:28.801
+vet_a10c8162dbc2459cba0b03c627648ac5,"aquatic, bird, reptile, pet, exotic",2.8,131,2024-05-18 03:49:18.925
+vet_a2ac5ac347e24995897ba3df61e78d3b,aquatic,3.4,33,2024-06-08 17:59:10.780
+vet_a2ea7acf43484e989efc3adbb2acab5f,"exotic, cattle",4.1,77,2024-05-28 17:40:13.83
+vet_a30650d613e04726b9462f1b8b2e9304,"aquatic, reptile",4.6,33,2024-06-10 00:15:48.100
+vet_a33090c0ba454a0baf694c11f1d613d4,"exotic, reptile, cattle, bird, aquatic, pet",4.3,15,2024-05-09 20:40:32.192
+vet_a354c6d8443548cf8f04dc1f34e1f14f,"bird, pet",3.1,121,2024-06-19 03:49:43.91
+vet_a37b00c51adb44e2b82f82c7e9964f6b,"aquatic, cattle, exotic, bird",3.4,5,2024-06-13 22:51:21.679
+vet_a3b8551b15714542970b635c664246bc,bird,3.1,29,2024-05-16 16:30:55.399
+vet_a43172ec887046c2bf1ed9a7dd6e8293,"reptile, pet, bird, exotic",4.8,62,2024-06-15 01:33:38.298
+vet_a4cd15b794d44cd68ca72ee47d7a5e5a,bird,1.4,48,2024-05-31 12:23:15.427
+vet_a519c362a21f4698b986659302efdb93,bird,4.2,124,2024-06-06 22:27:03.185
+vet_a543232bb3bb4eeba2599c51065b4eb1,"reptile, aquatic, pet, cattle, bird, exotic",1.5,112,2024-05-02 11:17:14.774
+vet_a54e1d45c9ce4ec7abb4ffaa7aced02a,"reptile, cattle, exotic",4.0,165,2024-06-18 22:34:22.886
+vet_a55c0a742fa24401b9ea68af875d6e30,"exotic, reptile",4.0,163,2024-06-19 02:33:20.292
+vet_a5e9ff61257947a1bb6b428e05250e5e,"exotic, cattle, bird",2.8,138,2024-05-22 17:19:41.387
+vet_a62357b9754a4b018c1bdfdbfac6f04d,"aquatic, cattle, exotic, bird, pet",4.7,33,2024-06-09 01:33:38.843
+vet_a632ed50c710444e8a796f7d08d06e2c,"bird, aquatic, pet, exotic, reptile, cattle",3.0,64,2024-05-30 16:41:42.467
+vet_a637d826e25f4c0fac1b5981c956539f,"cattle, pet, bird, aquatic",2.7,126,2024-05-03 06:25:40.900
+vet_a6d82509438d49609ed1a03f77864b6e,"aquatic, pet, exotic",4.4,91,2024-06-20 17:25:32.661
+vet_a720e55d2f46408792a6c395c3bbb144,"reptile, cattle, aquatic",4.2,29,2024-06-04 10:26:25.959
+vet_a728120963c14a40a1a24c9c3a7a6805,"reptile, exotic",4.3,2,2024-05-12 05:21:36.597
+vet_a768866e0bd84c55b1c3be39ba812653,bird,2.4,98,2024-06-13 00:09:38.449
+vet_a78749c230954e1dbd9a6ebfbafecef6,"reptile, pet, exotic",2.2,106,2024-06-11 22:45:29.986
+vet_a7e846e16c15483892a7b80575730466,"reptile, bird",2.6,155,2024-06-02 15:55:51.393
+vet_a8779053b8b24769b2358a60378eee04,"reptile, bird, cattle, exotic",3.2,23,2024-06-16 07:20:55.548
+vet_a8b7588e1bde40c9bdfd2d1aabf28b05,"reptile, cattle, pet, exotic",2.1,141,2024-06-07 10:44:22.661
+vet_a93fcd6145594538b57332d34c2d7892,"reptile, exotic, cattle",1.9,78,2024-05-07 20:15:08.349
+vet_a97ddcd952b84019ba1332259da885e5,"reptile, aquatic, pet, bird",2.9,164,2024-06-11 14:39:53.51
+vet_a9ddf79a672d42669411af2f6e7a096b,"cattle, exotic, bird, pet, aquatic, reptile",2.1,144,2024-05-07 07:10:32.401
+vet_a9fa639cf4fb4dd29240e1432b761348,"exotic, reptile, pet, cattle, bird, aquatic",2.8,11,2024-05-01 00:55:10.79
+vet_aaa9cea63a994e78883b82b09d8df76e,"reptile, pet, bird, exotic",1.7,36,2024-06-14 18:45:45.50
+vet_ab0a0be62cfb45b98f4717888add965c,exotic,2.6,55,2024-05-20 16:06:55.363
+vet_ab3b2573127a47ecb550de63684d140a,"reptile, pet, bird, cattle",4.4,4,2024-05-25 19:16:50.412
+vet_ab48b68f5bc34bdd97417c5c7cbd5289,"exotic, bird, aquatic, pet, reptile",4.8,142,2024-05-05 11:06:35.549
+vet_ab4b95850de14647854af70c147fa681,"reptile, aquatic, pet, cattle",1.3,10,2024-05-01 09:44:14.609
+vet_ab53b7ae567f4cf584823505dc47e0e5,"exotic, bird, pet",1.6,127,2024-06-06 04:59:38.783
+vet_ab5c4708cf224e36bc6010ac2f314ce7,"exotic, reptile, pet, bird, aquatic, cattle",4.4,144,2024-05-20 22:55:15.387
+vet_ab750a862ff74afb91f1987ac3583c52,"cattle, aquatic, exotic, bird, pet, reptile",1.3,100,2024-06-06 18:03:31.205
+vet_abb82517a8464823b50c6e6d8cb1cad6,"cattle, bird, reptile, pet, exotic",2.6,5,2024-06-19 08:44:02.969
+vet_ac81b39c4bf6474589ea792a75f88551,"pet, reptile, bird",2.6,186,2024-06-12 14:17:14.517
+vet_ad2710c8ccb8458292a2614bf8a1aabd,"reptile, pet, bird",2.0,11,2024-05-24 21:50:47.14
+vet_ad52f6707f4c4c64be38447122d04bea,"cattle, aquatic, exotic, bird, pet, reptile",1.7,186,2024-06-08 16:19:05.214
+vet_ad7e51b4e6a64da099fa90bca577469b,"cattle, aquatic, exotic, bird, pet, reptile",2.0,174,2024-05-25 07:03:56.904
+vet_adeb1593900a4622a4c7fc35075536c3,"cattle, pet, bird, reptile",4.0,8,2024-06-20 13:46:01.632
+vet_ae140b2578214581b743239a26c486fa,"bird, aquatic, pet, cattle, reptile",4.4,176,2024-06-06 08:44:26.236
+vet_ae6e1a3a123946a4b654c57f7cc26b50,"reptile, aquatic, exotic",4.0,12,2024-05-08 19:14:09.701
+vet_aedff2556f0840a0b162658173d9da08,"exotic, bird",3.1,76,2024-05-24 10:24:53.227
+vet_af1b687f945b41f6a1a797835be41732,"reptile, aquatic",3.4,101,2024-05-25 15:22:49.912
+vet_af8fdb4679c944fda6c902a02e9dfd1e,"reptile, pet, cattle, bird",4.3,115,2024-05-26 15:42:59.235
+vet_af9d9c2ec198411095afe446415319e8,"aquatic, reptile, exotic",3.0,179,2024-06-02 07:46:37.518
+vet_afd611164b954fd2bf7afa9e6bad1294,"bird, reptile",2.0,79,2024-05-03 05:40:23.725
+vet_afe34615863846c7b17b34cd4f22af3f,exotic,1.3,135,2024-05-22 17:43:30.273
+vet_b01f6ca5f4284026889c4e737b37a37e,"reptile, pet, aquatic",3.8,81,2024-06-02 16:45:39.381
+vet_b0725cd6974541e685275f08c6efc1cd,"exotic, pet",3.7,51,2024-05-13 20:09:32.218
+vet_b0d416c70207497bad11cf167cec8584,"exotic, bird",4.9,66,2024-05-01 08:10:02.386
+vet_b0e905e164aa4731b14a18b5652081e8,"aquatic, cattle, exotic, bird, pet, reptile",3.3,100,2024-06-09 14:52:20.509
+vet_b0ed89e5ff3a43b582b9907cc66080a3,"reptile, pet, aquatic, bird, exotic, cattle",2.6,51,2024-05-26 08:57:00.696
+vet_b0f025cf655f461ca0f48bf8287b5ba6,"exotic, bird",4.5,178,2024-06-20 06:36:10.806
+vet_b142670db2284a34a87651bf257096b7,"reptile, pet, cattle, bird, aquatic, exotic",4.7,156,2024-06-16 11:05:31.788
+vet_b1b06881a168433c984d192ab78bdd18,"exotic, aquatic",4.4,64,2024-05-25 07:23:50.900
+vet_b1f269153bc34b7bba17a3501fe87752,"reptile, pet, bird",4.8,147,2024-05-08 12:34:39.622
+vet_b2a8fab604aa4aeebc789bd902704c84,"reptile, pet, bird, exotic",3.3,159,2024-06-18 00:22:38.58
+vet_b36b3d3ca7504cb092d4f8858a8bded9,"pet, cattle, aquatic, bird, exotic",2.5,36,2024-06-16 16:21:28.651
+vet_b3e76b07974c40a49c67e5fac571dbfc,"cattle, exotic, bird",2.5,194,2024-05-25 02:03:06.802
+vet_b4114e413d3a44a0a2ef5b4c69b66c2e,aquatic,3.9,9,2024-05-01 00:21:51.439
+vet_b4768df9d6694c15b3199b3c46be8b69,"reptile, exotic, aquatic, cattle, pet",4.7,139,2024-05-01 16:36:04.583
+vet_b4b1f082218d48e196b2642afafc2b0d,"exotic, reptile",2.2,113,2024-05-24 23:45:53.775
+vet_b4c7dc64a18647aaabd4156b405d3480,"exotic, reptile",2.7,179,2024-06-17 05:44:13.346
+vet_b50023d4096e4a9f8075213c4ce97dd6,"aquatic, exotic, reptile, pet",1.5,27,2024-06-07 21:26:10.935
+vet_b530116a74fa4c56908d71a53ce225c6,reptile,4.2,129,2024-06-20 01:24:02.392
+vet_b5a3b6c7c9544ccc87061bf13f302f34,"reptile, pet, bird, exotic",1.6,67,2024-05-07 16:12:40.442
+vet_b5b88db894634792854650e1527c0b90,"reptile, pet, bird, exotic, cattle",4.1,140,2024-05-20 00:01:39.645
+vet_b5f39c2fbfdb449daa3d8736e83f6d55,"exotic, reptile",2.1,65,2024-06-18 16:22:05.114
+vet_b5f3ed00ca1244a99dd229b21e9aac88,exotic,2.7,178,2024-05-15 20:49:31.871
+vet_b5f449337c06435385b7b929a1abc205,"pet, aquatic, cattle, reptile",1.7,134,2024-06-12 03:24:18.412
+vet_b64f6babcf73421eb074ad45e4fdc8eb,"exotic, aquatic, bird, pet",3.4,10,2024-06-03 19:52:48.391
+vet_b686ff3cbdf0442b886a874ca746389d,"bird, pet, reptile, exotic",2.3,158,2024-05-06 06:13:25.759
+vet_b6c9b2b84f4e41cc82d33f26c03bfede,"cattle, aquatic, exotic, bird, pet",4.1,64,2024-06-12 03:12:41.159
+vet_b81cd407c0984a05ad43e8b49e9744f6,"bird, exotic, cattle, pet, reptile",1.2,64,2024-06-16 05:54:55.737
+vet_b82c6b034ac94622a5aa7a08e31f4ca0,"exotic, aquatic",3.7,41,2024-05-05 23:33:11.828
+vet_b858bab550e44fd5a72f6815d9cfb998,"reptile, pet",3.3,2,2024-06-20 10:00:45.16
+vet_b888089168ff4721b91227d077a43e99,"reptile, exotic, pet, cattle, bird",3.3,17,2024-05-27 20:05:31.222
+vet_b8917332831a4900a0da16af87c5e388,"exotic, pet, reptile, aquatic, bird, cattle",4.3,41,2024-06-08 16:42:03.487
+vet_b8edfd12b72a4b508cb0821879cce092,"reptile, aquatic",1.4,34,2024-05-01 03:03:14.134
+vet_b932916334454b76b68bb09ee6397a37,"pet, bird, exotic, cattle",2.3,149,2024-05-08 01:05:04.275
+vet_b945f29f6cd248a9802e5746b0f4f57d,"exotic, bird",1.3,46,2024-06-11 04:38:29.90
+vet_b9b4d5f7925e472a99ff0f332051c943,"exotic, bird, pet, cattle, aquatic",3.0,160,2024-05-08 01:21:25.761
+vet_b9efb58b6f6c49aa81135bb1a81fe586,"exotic, bird, aquatic, cattle",5.0,73,2024-05-02 22:56:14.483
+vet_ba52aa81d4554b1bbeb891a1c3834229,"exotic, reptile, bird, cattle",3.0,32,2024-05-09 12:17:27.393
+vet_ba8c92ae7e6f4823987e137b3ef87670,reptile,2.2,131,2024-05-19 06:47:08.257
+vet_bad776e3991a4671a286865e3d14f21b,exotic,3.5,120,2024-05-13 14:33:59.400
+vet_bad8036ab3ec4eec87ca4e89c86bcca4,"aquatic, reptile, cattle",4.3,154,2024-05-20 08:28:50.668
+vet_bae1654beadd41c597185b4595e99e35,reptile,4.1,170,2024-05-31 20:33:56.502
+vet_bae633ae973647ef915da2b53fcf796a,exotic,4.8,44,2024-06-01 11:33:03.323
+vet_bb663b12493b47108ceb8b4c28c4c29d,reptile,4.7,188,2024-06-02 23:00:33.353
+vet_bb734aaa2ebe440ba03c61ed00b8de8c,"exotic, bird",2.2,184,2024-06-02 02:25:09.972
+vet_bbae670673c64929a6fb2b5a22ed885c,"exotic, bird",2.5,2,2024-06-02 06:40:07.129
+vet_bbc6472265e145b39714a60fe5018ffc,"reptile, pet, cattle, exotic",2.0,46,2024-05-12 22:42:17.447
+vet_bbf3ac4eb5a74504a0ec562d8f603189,"aquatic, reptile, pet, bird, exotic, cattle",1.0,170,2024-05-07 22:02:45.898
+vet_bbfa792d03264273a5bb5ab687ae7988,"cattle, aquatic, exotic, bird, pet, reptile",4.1,161,2024-06-11 20:01:17.432
+vet_bc13e838944b44f798c09e2c5e52eb07,pet,4.3,38,2024-06-06 14:49:51.116
+vet_bc1978d1bee543db868005d3c84e4b6f,reptile,3.9,159,2024-05-01 11:34:17.339
+vet_bc4988e175f340188f17d63ce92364a1,"reptile, pet, cattle",4.5,93,2024-05-17 11:00:00.925
+vet_bc9a60ed5d614136881df41253dca7e9,"aquatic, cattle, reptile, pet",1.3,60,2024-06-16 05:36:07.677
+vet_bc9c65648e064f0e88c0c3dac3360072,pet,4.8,116,2024-06-07 10:10:17.821
+vet_bcf7d397c0a0455a97993ed873cb7da7,"bird, exotic, pet, cattle, reptile",2.4,29,2024-05-10 19:21:16.860
+vet_bd3b23133c5e4f3698f984efb25dcc57,"pet, bird, aquatic, reptile, exotic, cattle",1.9,94,2024-05-16 12:43:10.637
+vet_bd5f4c6c34504b26ab2f5bb03c9c3a19,cattle,4.6,10,2024-06-12 21:40:17.809
+vet_bddfa7b29d1f40f38551ddf1ffbef15e,"aquatic, pet, cattle, reptile",3.7,143,2024-06-03 08:58:13.40
+vet_be17fd377df348d2b40b6ec75a65d20c,reptile,3.5,84,2024-05-09 20:04:20.762
+vet_be4d3fe5b78640599d0d8372057a88ef,exotic,4.7,121,2024-05-17 06:48:31.852
+vet_be579f30d9954bf4b1eaea385ffd1b31,"exotic, aquatic, bird, cattle",3.8,182,2024-05-26 19:52:07.293
+vet_bf14d04230074cabadfbaf904fc99bde,"bird, cattle, reptile, exotic, pet",1.2,153,2024-05-08 08:07:26.56
+vet_bffb52803f1847da9c1ec5d463bfb5c9,bird,2.1,177,2024-06-18 05:41:21.388
+vet_c003fbf5725543edbec008cbc05751e4,"aquatic, cattle, exotic",4.8,7,2024-06-07 10:44:04.59
+vet_c0898237f5df4e019c374d6ae59a026c,reptile,1.6,76,2024-05-26 01:54:47.217
+vet_c08d4bd0b83349de957bdbf9dbc61935,"exotic, cattle",1.1,93,2024-05-13 15:41:51.719
+vet_c13942040f6243dfb7c8b43bb267db28,"cattle, exotic",5.0,17,2024-06-06 12:35:53.626
+vet_c1df296af3784dcd970278feb45db296,"reptile, pet, bird",3.0,105,2024-06-08 04:23:37.436
+vet_c23a3d99f944420bb30f11dda03d56ea,"bird, pet, cattle, exotic, aquatic, reptile",2.3,163,2024-05-18 23:41:18.905
+vet_c251a6a56e584e3d9096f99a48787ca1,"reptile, pet, aquatic, cattle, bird, exotic",2.6,2,2024-06-10 06:08:23.105
+vet_c2e5ec588424473ba5b447812b2320da,exotic,3.8,70,2024-06-05 20:58:12.459
+vet_c3a59e20e6cf4619af0fe3249a498ec6,reptile,3.1,127,2024-06-12 21:35:01.522
+vet_c3f4c5d928af42bfbbbe701450731b18,"pet, bird",4.9,107,2024-06-20 16:37:22.249
+vet_c45c3968ac3a4ba6aa7636bbf479a5ea,"reptile, pet, bird, exotic, cattle, aquatic",1.7,133,2024-05-09 09:51:47.335
+vet_c47e2f9f8cee410f94ac18b89a77542a,"exotic, bird, pet, reptile, cattle, aquatic",1.3,191,2024-06-17 06:11:48.707
+vet_c4c921691a2a4a8186fa5e998ca52039,"bird, reptile, aquatic",1.7,104,2024-05-17 05:41:16.723
+vet_c559337477eb40fc9bc93a55ccd20541,exotic,1.6,11,2024-05-06 22:34:14.647
+vet_c5a4d75051934a78a42da76fd9ceb7bc,"aquatic, bird, pet",2.4,60,2024-05-23 06:51:36.552
+vet_c5b95c26a2f946e3967188e0fefd5307,reptile,2.2,108,2024-05-15 00:32:10.575
+vet_c631bae7bfec4a0b94ffe1d97fe238d7,"aquatic, cattle, reptile, pet, bird",3.0,18,2024-05-26 14:04:18.874
+vet_c64d9882f8ad45128cef8dfe74a84d75,"bird, pet, exotic, cattle, reptile, aquatic",2.0,88,2024-05-06 00:03:37.939
+vet_c65bcb8811a147e0b5ca6dafa627ca7e,"exotic, aquatic",4.3,154,2024-05-29 22:48:14.472
+vet_c65d659acb7e4c9ab3b358f764f47d76,"aquatic, reptile, exotic, pet, bird",4.1,101,2024-05-21 00:30:14.586
+vet_c6e0d0fb3514498fa71572507b14b992,"reptile, pet",2.2,93,2024-06-19 11:03:45.743
+vet_c6e701d6955f4d14b6d7baee68a8eecf,"reptile, pet, bird, exotic",1.8,148,2024-06-16 22:12:37.966
+vet_c7301cea222e4f2ea0480f084f2b871e,"reptile, exotic, cattle, pet, bird",2.0,17,2024-05-07 19:10:24.195
+vet_c738e96f4af2420daddfa77589bb4e47,"reptile, bird",2.0,68,2024-05-13 00:54:27.592
+vet_c7f0ccc2425948f99518f63fa007d204,"pet, reptile, exotic, cattle, aquatic",4.3,29,2024-05-02 06:43:28.351
+vet_c812097bd95847a2959fa43790fb9062,"reptile, pet, bird, exotic, cattle",3.7,14,2024-05-24 10:58:53.915
+vet_c857b3832cf940028ac6a54cf35117bd,"bird, pet, cattle",1.4,139,2024-06-16 05:58:18.385
+vet_c85f23f95a244b25bf464bbfa721aeee,"exotic, cattle, aquatic, bird",4.2,92,2024-06-07 20:11:45.357
+vet_c92b0968a0234bdca245f2f01cc5c2c7,exotic,1.3,75,2024-06-09 10:27:27.474
+vet_c936d0618745403f8ca8ed086e881d6b,reptile,2.1,130,2024-05-18 03:54:58.886
+vet_c9768c7c65574efead7ef9d60733c854,"reptile, pet, cattle, bird, exotic, aquatic",3.0,102,2024-06-09 12:17:13.701
+vet_c9edd888b8ce4439b96fd59b010d1d29,"pet, reptile, exotic, aquatic, bird",3.0,184,2024-05-02 13:45:50.904
+vet_c9f47f8d550c456f80c5360812e9cbee,"cattle, exotic, aquatic, pet",2.6,161,2024-05-22 18:16:44.813
+vet_ca0ce9ab82204e7ba96379786759773e,"reptile, pet, cattle",4.1,176,2024-06-13 19:01:47.593
+vet_cbe562b00ecf4c62980d1bcb952614d4,"bird, pet, cattle, reptile, exotic, aquatic",2.5,176,2024-05-09 18:26:04.709
+vet_cc5b04edc0b542cfbb99275dc18e0961,"exotic, reptile, aquatic",1.8,162,2024-06-13 11:21:13.422
+vet_cca407c822ed4f7c81e5c0f62744ddb9,exotic,4.0,125,2024-05-03 10:54:19.536
+vet_ccc2602a8b1e4a909e61b1276e09cced,"reptile, pet, bird",2.1,138,2024-06-01 14:03:14.326
+vet_cd006acad04441da82034c9aaaa34808,"reptile, pet, aquatic, bird",2.2,60,2024-05-18 15:29:29.407
+vet_cd5006b16dee4689a92147b32890572d,"pet, exotic, aquatic, reptile, cattle",2.9,43,2024-05-29 19:02:45.345
+vet_cd738cb0c8174e33b3361e1c8a8401e4,"exotic, reptile, pet, aquatic, cattle, bird",4.8,37,2024-05-10 02:13:50.567
+vet_cde85ce9c9c34cd5aae0fb2f6c229e27,"bird, cattle, exotic, pet, aquatic",1.1,152,2024-06-17 13:20:14.232
+vet_ce2657d8e9dd42e1874e99d02dd82334,"exotic, reptile, pet, cattle",2.6,165,2024-05-25 00:22:24.351
+vet_ce5d03e1476e4c0eab3172fc4b319030,"reptile, pet, bird, exotic, cattle, aquatic",2.6,18,2024-05-05 22:14:56.302
+vet_cebba6399f674cd7ad9eb5893b373a98,"reptile, exotic, aquatic, pet, cattle, bird",4.1,118,2024-05-25 23:50:13.100
+vet_ced6b110c835436ebd2a1351c8eb8366,"cattle, exotic, reptile, aquatic, bird",4.1,78,2024-05-18 04:18:39.427
+vet_cefc479d9f3445b38d0c8fd331c04290,"reptile, exotic, cattle, pet, bird",2.3,58,2024-05-07 03:25:36.578
+vet_cf386e4aa3044f64848e0b700155878c,"exotic, cattle",1.7,166,2024-05-22 23:35:35.813
+vet_cf4cc4334d7e40e092ff75791c777a29,"reptile, exotic, pet, bird, cattle",4.8,132,2024-05-04 21:36:41.06
+vet_cf9a7bcd77534bff99eed81c8116fb66,"aquatic, cattle",1.3,177,2024-05-22 14:46:11.939
+vet_cfa6087d9530476da2b5ef2ec2a01fdc,"exotic, aquatic",4.9,148,2024-05-23 12:39:31.240
+vet_cfb6b75decb44e149b3bb8a2f3c5bd4a,exotic,1.2,70,2024-05-07 02:10:21.68
+vet_cfc98cf8ccce4968ab51dcfd6d76e3cb,reptile,3.0,32,2024-05-23 09:27:50.806
+vet_cfd2b4fffd8549c3b5f95c306b571a17,"aquatic, cattle",1.9,145,2024-06-13 04:43:38.702
+vet_cffe14d3754b4ae79e94b8d44f9e4f66,"bird, aquatic, exotic, cattle",3.8,119,2024-05-22 20:06:44.495
+vet_d0588a6b22f9454284204550a6ae95c0,"cattle, aquatic",3.3,55,2024-05-02 18:21:31.95
+vet_d0d7b659aafd418bb40c78458d19dfb3,"aquatic, exotic, bird, cattle, reptile",4.2,186,2024-06-05 08:33:55.32
+vet_d0e806de4e4d4258b49d22f3922d91d3,"reptile, pet, bird, exotic",3.6,191,2024-05-04 16:36:44.634
+vet_d1e4714be5c84009b72a5184d8c0370a,exotic,4.0,64,2024-06-10 16:23:35.955
+vet_d1f3cdae12f244f9ad7ead39e092cedc,"exotic, reptile, aquatic, bird, pet, cattle",1.5,144,2024-05-09 04:47:17.478
+vet_d1fb9e38fa1640469068e50f4d38bda6,bird,1.3,0,2024-05-11 06:01:31.790
+vet_d2261924fbc0434b832f763100a32a6a,"exotic, aquatic, bird",4.9,173,2024-05-23 15:36:45.696
+vet_d24e2fec615844c0a7c2d4ff0a6c803e,"bird, pet, exotic, reptile",4.5,113,2024-05-21 13:27:14.401
+vet_d2c6218181634492983182ae85515ea7,"cattle, exotic, aquatic",3.2,126,2024-05-21 14:38:43.484
+vet_d3032fb6dd7c4c6ba7552c1649ab9afc,"reptile, aquatic, pet, bird, cattle",4.9,64,2024-05-27 06:17:30.145
+vet_d31d1cb67fa640649061cb0007924d1f,"cattle, bird, aquatic",1.4,131,2024-06-09 15:24:48.296
+vet_d38edb8e47c34564be9652c0ae92d43e,"bird, cattle, reptile, aquatic",4.0,80,2024-05-18 14:59:41.386
+vet_d3a667daa5c24e9090c4c26c8c6c3d9f,cattle,2.8,45,2024-05-10 19:42:56.154
+vet_d40cfa1de5c4456c8733a17220e0e02f,"reptile, exotic, cattle, pet",4.5,115,2024-06-13 05:05:18.299
+vet_d414769011cf4f98a52bb51fbe1a06db,reptile,3.3,58,2024-05-22 03:55:30.329
+vet_d49a678c7a54458588f5221c0a64c7e6,reptile,3.7,36,2024-06-15 04:20:57.174
+vet_d4c26424cea247df8e3b7e6b19a69666,"bird, pet, aquatic",1.3,179,2024-06-01 11:25:12.771
+vet_d4c2d304c4f14db189836c523d49c12a,"reptile, pet, bird",1.2,56,2024-05-30 20:21:04.439
+vet_d5a0ba01cf8a45b08736dbacf00325a2,"exotic, aquatic",4.4,150,2024-06-09 11:45:11.35
+vet_d5ac4124dec84ebdba493a38cd130802,"aquatic, reptile, pet",2.0,77,2024-06-11 15:46:40.53
+vet_d5bd4de4fbcb45bd9b378f75e244ef4f,"aquatic, exotic, bird, pet, reptile",4.8,164,2024-05-12 06:53:19.684
+vet_d648d9fdc4d9412386287b1c5a1eaa06,exotic,2.5,165,2024-05-23 17:46:49.280
+vet_d65d72fdb3154328a1a80b3fcc98cd8f,bird,4.5,167,2024-05-12 13:10:51.232
+vet_d6c7cb68fc244c05adc2bbaad07bb71b,"bird, pet",2.9,196,2024-05-04 03:23:55.37
+vet_d7b3832534c24e168e6a5ef2563f09ec,"aquatic, exotic, reptile",1.8,96,2024-06-12 07:48:26.56
+vet_d7d4d591a63242308bd83ab9f00cf1de,"exotic, reptile",4.8,20,2024-05-27 04:38:50.97
+vet_d7d6a7ffc50f444eb447cc51c8589d62,"cattle, exotic, bird, aquatic, pet",2.3,70,2024-05-01 02:59:35.769
+vet_d85f3c6ced2441349b11b79f52489ac5,"reptile, pet, aquatic, bird",3.2,64,2024-06-01 15:33:08.853
+vet_d9615a27270440a8875e70dafef5e450,reptile,1.6,7,2024-05-18 02:16:16.685
+vet_d9dc2c61183c439aa0b601ae54a6ab53,"reptile, pet",1.0,150,2024-05-19 17:42:26.925
+vet_d9ef93609ee24769b852edbc998fd5e3,"exotic, pet",2.3,181,2024-05-24 06:35:08.859
+vet_da058d622f8b4ef68d4c9803474209cd,cattle,2.5,30,2024-06-05 09:11:22.247
+vet_da0e3926ffbb49df867a48bce0b494cd,reptile,2.9,96,2024-06-10 21:52:15.932
+vet_da7a0fb7541441288f30d034e4ccaa60,"reptile, pet",1.4,190,2024-06-08 09:17:40.729
+vet_da8c120cb1bc4fedbe41be9ca0939668,"exotic, cattle",2.8,61,2024-05-18 12:29:00.896
+vet_da9f95e231294c16bf75e45e9a6aa619,"aquatic, bird, exotic, pet, reptile, cattle",3.7,54,2024-06-15 19:31:35.276
+vet_db159e06bd8d428c9472961ee636ecb1,cattle,4.8,51,2024-06-10 22:42:25.87
+vet_db64c3d556614574b15bd811dc0d5715,"reptile, exotic, pet",1.6,63,2024-06-16 10:35:39.482
+vet_db66c231486640aa8fe4e22cd7d54153,"cattle, exotic, bird, aquatic",4.7,8,2024-05-16 05:02:14.156
+vet_db71ecbba2d4491f89be77ac43ca9432,"reptile, pet",2.9,86,2024-05-17 09:04:54.827
+vet_db9c2a3131c94b8799cbadf3fec1d66b,"reptile, exotic, aquatic, bird",3.0,61,2024-05-19 01:22:02.261
+vet_dc932b7441cb404a9375273f89bebc43,pet,3.0,134,2024-05-12 05:18:00.980
+vet_dd06165bb59d44fca7968582738b1d07,"aquatic, cattle, exotic",3.4,146,2024-05-23 10:45:27.27
+vet_dd4fd826b7614ddf8a0ff284c9ffa740,"bird, exotic, cattle, pet, aquatic, reptile",1.3,51,2024-06-14 01:20:45.792
+vet_dd720816e13642b994d4d74a1c0220d7,"aquatic, reptile, pet, bird, exotic",1.1,66,2024-05-16 13:07:56.872
+vet_dd964140264d421a80f1c07737011d4a,"cattle, aquatic, exotic, bird",1.3,131,2024-06-20 19:00:57.218
+vet_ddae81a4c3f9436d9717537ff96404f0,"bird, pet, aquatic",3.3,9,2024-06-06 23:37:26.849
+vet_ddc2d155bf1a4e2495517552c58ed43a,"reptile, exotic",2.6,37,2024-05-04 07:28:26.594
+vet_ddf01e52e9a247ddba7a455518701d0c,"pet, cattle, exotic, reptile",5.0,73,2024-05-12 20:35:18.815
+vet_ddfea15bdfc94b59960cc8375f2fc0b9,"exotic, bird, pet, aquatic",2.2,191,2024-05-04 16:22:50.772
+vet_de32ecb7a2d54e08a20a7c3c4d1933f8,"pet, cattle",4.8,180,2024-05-01 21:53:20.484
+vet_de5981c49b99478fb3fa04016e316ac1,"exotic, aquatic, bird, cattle, pet",4.5,170,2024-06-16 05:23:50.969
+vet_de61af9c8bf4494f951af0c3f5253a26,bird,4.1,185,2024-05-11 16:12:20.548
+vet_de8cbed4901545c6ae69c91998787e42,"pet, exotic, cattle, aquatic",1.6,121,2024-05-31 14:43:56.277
+vet_decc7ac375fd48f5aa5b22e18f0c6311,"aquatic, bird, pet",1.5,20,2024-05-27 16:21:58.812
+vet_df3f28e0d5b74c4a9be1232e55c7e613,bird,4.0,151,2024-05-29 05:16:09.199
+vet_dffcbde6e7614b72bcb0a4ccb44b89c6,"reptile, pet, bird, exotic, cattle",3.2,26,2024-05-12 14:18:56.268
+vet_e015699c4e994affb98fb30c957b14af,cattle,3.3,108,2024-06-01 04:26:52.153
+vet_e0190f00b32945e3a654af1d8f262e5f,"cattle, exotic, bird, aquatic, pet, reptile",3.7,44,2024-06-11 16:34:11.923
+vet_e055aecc2d6b4ab7bfa4c14baf46db4b,"cattle, bird, pet, exotic, reptile, aquatic",2.1,103,2024-06-08 01:19:21.240
+vet_e057aa5d7070479b8895602a070c9bc6,"reptile, exotic",2.9,196,2024-05-20 23:45:26.422
+vet_e07576f416c5403ca444d3bd3d92e7cf,"aquatic, exotic, pet, cattle, bird, reptile",4.9,163,2024-05-02 05:48:35.360
+vet_e10c7799abbc49cfbdddad0fad094bad,"cattle, exotic",1.5,25,2024-05-26 09:58:36.819
+vet_e16ddf88e4484592a575df8d29aaef22,"exotic, bird, aquatic, cattle",4.8,18,2024-06-18 07:28:22.721
+vet_e190384591ed4ad1828102ea9fe13ee1,aquatic,1.4,108,2024-06-03 05:45:40.162
+vet_e19ff00eb67a47ba8990c730e806cf20,"pet, reptile, cattle, exotic, aquatic",2.0,187,2024-05-31 18:35:43.168
+vet_e1a819af380f4c888e328b6c4f81d031,"bird, pet, exotic",4.3,67,2024-05-13 17:48:16.168
+vet_e1d7370f43d448e593f8d67582f3d4be,"exotic, aquatic",4.8,21,2024-05-30 20:34:28.784
+vet_e1fc6c58bd0c41fea644a4d36c57456b,"exotic, reptile",2.6,166,2024-05-31 23:44:59.80
+vet_e20b6ac591d14c67bdc20f7be3f34b23,"pet, cattle, reptile, aquatic, exotic, bird",4.7,42,2024-05-10 05:01:54.176
+vet_e2b8fd2383cf46efb51de6f84b6fbdc2,"bird, reptile",4.0,20,2024-05-11 05:57:33.970
+vet_e2fdfe0675424fc08f03a6c7d494fab0,"pet, exotic, cattle",1.8,182,2024-06-02 04:00:11.100
+vet_e391dd2401a0497abd6fefb42c706414,"reptile, pet",3.0,51,2024-06-18 19:26:19.235
+vet_e3c16aa13b2049ce93e31bc4915fe49b,"pet, aquatic, bird, reptile",2.0,108,2024-05-24 06:29:44.518
+vet_e3f4711da5e44b068d7f9f574e3c95a7,"reptile, pet, bird, exotic",1.8,91,2024-05-24 02:16:59.890
+vet_e4159b70655f47278cb7dc9e0aea6033,"cattle, bird, exotic",1.3,70,2024-05-01 05:22:41.591
+vet_e474f10ff1b64b0ab3359a8e0ff5a46e,"exotic, bird, aquatic, pet, reptile, cattle",4.8,20,2024-06-04 17:06:19.29
+vet_e47d977cf49c4cbf8f50ee79e89f657c,"bird, exotic",1.2,88,2024-05-15 23:51:57.428
+vet_e496938ca0dc4bff9ad1aae176b830a6,"reptile, bird, aquatic, cattle, exotic",2.8,109,2024-06-13 08:59:38.436
+vet_e4b95f8d5a19436ea5420ccd7dcaed2a,"exotic, pet, aquatic, cattle, reptile",4.3,118,2024-05-20 09:35:00.755
+vet_e4e649e24f4845578dc196995f5c65b5,"bird, exotic, aquatic, pet, reptile, cattle",2.7,18,2024-05-21 15:01:01.507
+vet_e508cefd6ac74745bdafc11a10806b5e,"exotic, aquatic, bird, pet, cattle",2.2,74,2024-06-12 00:30:40.546
+vet_e5be3a0d160c42d89a690d3214d8b802,"exotic, pet, reptile",1.3,192,2024-06-12 12:55:27.592
+vet_e6baf1f2375f4e03b331db78553b4c51,"reptile, pet, bird, exotic, cattle, aquatic",2.8,8,2024-05-20 23:27:51.434
+vet_e6d1f65994714aa7b71a55eb94aa74b2,"bird, pet, aquatic, exotic",3.0,19,2024-06-09 04:42:18.71
+vet_e6f4695f5ad7434587e173fa8cf9f92d,"aquatic, cattle, exotic, bird",1.1,172,2024-06-20 14:15:12.814
+vet_e7248a881c23408b98970fe9ff5e3a7d,"exotic, bird, pet, reptile, aquatic, cattle",2.8,114,2024-06-03 21:09:19.501
+vet_e7549e1a23f948788f414856306cc0c4,"exotic, bird, reptile, aquatic",1.0,73,2024-06-02 16:06:13.85
+vet_e76480820d384239bd80e91800fa46d4,"reptile, aquatic, cattle",4.7,105,2024-05-12 10:05:56.844
+vet_e778550b910e490fb217a9b263194f93,"reptile, bird, cattle, aquatic",3.5,31,2024-06-05 06:48:21.566
+vet_e79180be1c44450aa2219b1f59bc20f4,"reptile, pet",2.7,17,2024-06-06 15:07:36.50
+vet_e79bf1fbc91a406e8e05933f576b9037,"exotic, bird",4.0,160,2024-05-29 00:13:16.965
+vet_e7c0882a378e4f1db0def662237e9bbb,"aquatic, exotic",4.9,189,2024-06-17 18:20:54.165
+vet_e84607315a5c461493c17d743f6138e5,"reptile, pet, bird, cattle, exotic",3.8,103,2024-05-26 05:48:18.360
+vet_e88383979ddc4d47b69542e29ea5572e,cattle,4.9,133,2024-05-26 12:06:07.247
+vet_e8c02d1a5f67439d84346dbdac161e22,"reptile, pet, exotic",2.8,43,2024-05-19 10:04:03.861
+vet_e8d40ab312fc409e9f5e28eaa513a180,"pet, exotic",3.5,103,2024-06-02 21:07:44.620
+vet_e918e0c5610c4360b1033860e64771b8,aquatic,3.3,104,2024-05-08 18:03:16.247
+vet_e91bfee3ad5547a9baf541eb7aa76839,"bird, exotic, pet",3.4,91,2024-06-13 21:21:45.861
+vet_e96daaef9924411fa588955589df75f6,exotic,2.0,92,2024-05-07 17:08:43.680
+vet_e99d30d8247748eab4c4c3a055d9954e,"aquatic, exotic, reptile, pet, cattle, bird",4.2,108,2024-06-02 23:42:05.03
+vet_e9c3f07201fc4b5abbee0d4d3716849e,"aquatic, cattle, exotic, bird, pet",4.3,95,2024-06-14 22:48:30.767
+vet_e9f9b721261c4f46adafd87e3a5cbf25,"pet, reptile",4.7,60,2024-05-15 16:44:10.439
+vet_ea7d547741914a238013cefb960166af,"reptile, bird, cattle, pet, exotic",3.8,174,2024-06-12 20:34:08.777
+vet_eac4dac6893a44e2a238520f97c1a71b,"reptile, bird, aquatic, exotic, cattle, pet",3.9,199,2024-06-01 03:08:04.902
+vet_eaf94bfb0e5d4d8fa450f4dddc502250,"cattle, aquatic, exotic",1.0,121,2024-06-20 01:39:03.852
+vet_eb245cb6ca444079b6df57f7f35c27e8,"aquatic, exotic, bird",1.4,50,2024-05-13 22:21:34.60
+vet_eb25db5b268f4f5d8bcad885e7b983b5,"reptile, pet, exotic, bird",2.4,33,2024-05-23 05:16:01.262
+vet_eb32a8b32ca446138c6170f3b0207e3f,reptile,3.4,12,2024-05-20 13:03:06.274
+vet_eb5c6d9a6fd14a9cafee6db0f38db5a2,"pet, exotic, cattle",3.8,66,2024-05-14 07:40:10.853
+vet_ebd3b52416504b2fb067eb97b898b536,"exotic, aquatic, bird, pet",4.5,48,2024-06-10 20:34:42.333
+vet_ec3c44aa137d468688dd74b3e35c14fe,"reptile, pet, bird",1.5,156,2024-05-01 09:10:03.228
+vet_eca15f21495944d5a96534aeacf2ce44,"pet, reptile, exotic",2.2,139,2024-06-07 01:38:56.131
+vet_ecfed13e74f54e63ab4babc25babfbd0,reptile,1.8,164,2024-05-10 16:26:36.848
+vet_ed086700d0b74568ac043ad59dd5146f,"cattle, exotic, bird, pet, aquatic",4.6,143,2024-06-02 13:47:41.687
+vet_ed716eeeff8b418fb80d0e5cfd89bad7,"pet, reptile, aquatic",2.6,149,2024-05-26 19:09:39.929
+vet_ee02018f710a4a1e8b03f4887c601661,"bird, pet",2.0,6,2024-05-17 00:25:20.111
+vet_ee04549449644641b414b1a3778850ca,"exotic, reptile, aquatic",4.9,145,2024-05-06 14:58:40.903
+vet_ee43d3295bc0471089651ad2f16c29a1,"exotic, bird, cattle, reptile, pet, aquatic",4.2,31,2024-05-11 13:16:05.269
+vet_ee531c65589d42a794358a895786d27a,"reptile, pet, cattle, exotic",2.1,107,2024-05-23 09:56:34.990
+vet_ee8ae5347d674f71a803b8e133307209,cattle,2.1,78,2024-05-05 10:09:41.272
+vet_eed7bf974a074e02959cd45ffc866728,"exotic, reptile",2.1,171,2024-05-27 09:13:46.565
+vet_ef170caeea9c49249096b99c28e51253,pet,1.4,166,2024-05-08 10:51:21.328
+vet_ef5662e0914b4c36a3fa320c2e7f6576,bird,1.9,150,2024-05-13 16:16:23.351
+vet_ef94f005b7524facbe1aa35e4448c032,"cattle, exotic, bird, pet, aquatic",4.4,189,2024-06-20 19:58:11.329
+vet_f08190361c764a5e9e8edd9c83e36216,"cattle, exotic, reptile, pet, aquatic, bird",1.3,174,2024-06-19 22:26:49.310
+vet_f09629ec6ea94ca4bacd8ca2fa9a8afb,"cattle, exotic, aquatic, pet",4.7,134,2024-05-27 13:10:39.56
+vet_f0b20c141af84c118f5faf444b717187,"bird, pet, aquatic, reptile, exotic, cattle",3.2,168,2024-06-08 10:54:25.103
+vet_f0c79b2af1684ebcbfb6fa423e2f3d76,"reptile, pet, bird, aquatic, cattle",2.3,180,2024-05-28 19:13:16.289
+vet_f0e01f59b65048bfb1ec657c1d46b217,"cattle, pet, aquatic, reptile, bird, exotic",1.2,168,2024-05-29 03:57:54.824
+vet_f100e52f925646888f45b73c851c7847,"cattle, bird, pet",2.4,160,2024-06-10 20:01:50.489
+vet_f183a6377a4f405c92bfe9fd3843526b,cattle,1.4,126,2024-06-20 13:53:34.951
+vet_f1e24d24a9cf4bc3b33c94b7ece2ad25,"reptile, pet, aquatic, exotic, bird, cattle",1.9,135,2024-06-11 17:13:11.913
+vet_f1fe092122bd4bda9f239734d402b52c,"pet, reptile, aquatic, cattle",1.8,131,2024-05-02 04:14:30.07
+vet_f24688218c724607bda4daaf16ff3b06,aquatic,4.0,93,2024-06-17 11:19:07.101
+vet_f2718e2c26d14a8fa6f5bcf68ad2960c,aquatic,1.1,163,2024-05-10 07:36:46.145
+vet_f27c5047cd40404bbe6b7d3cd3352e9f,"pet, exotic, reptile, cattle, bird, aquatic",2.7,47,2024-05-23 22:38:53.220
+vet_f2a064ce05854cd89be6214c7dd066db,"aquatic, bird, exotic, cattle, pet",2.7,109,2024-05-13 01:05:02.142
+vet_f2f0dff5020b4aa0b6a3cb44ce6a9b70,exotic,1.2,94,2024-05-05 00:25:45.647
+vet_f33e043e06224e5995dc57902eb45295,"reptile, pet, bird, exotic",2.8,57,2024-05-01 06:32:53.59
+vet_f342e920211c41d4973d988509222528,reptile,4.5,93,2024-05-12 17:49:15.273
+vet_f439c243329f49f7a871ebea3e058d92,"reptile, pet, aquatic, exotic",4.4,29,2024-06-06 16:44:49.252
+vet_f44ec9dbe2dd42cfb3ec4c676504a562,"aquatic, cattle, reptile, exotic",1.4,144,2024-05-10 11:17:08.719
+vet_f48fb415b033414d9812bbc3d223ad04,"reptile, cattle, pet, bird",3.1,25,2024-06-14 18:14:39.698
+vet_f5218e3a3d354a74a5ba68b60bb8bd03,"exotic, reptile, cattle",4.3,36,2024-05-30 07:17:50.668
+vet_f5613e3d7d6e45cd98f5f18f35cd7471,exotic,1.1,143,2024-05-26 16:02:37.474
+vet_f5762b90393c47159c0f36cdde43d180,exotic,3.5,22,2024-05-08 22:10:37.101
+vet_f59fc839eba648d4a733dd8a47617165,"reptile, cattle, pet, aquatic",1.6,74,2024-05-25 08:47:48.367
+vet_f5e9b5d91e7842939256f2bc5385e6e7,"reptile, exotic, cattle, aquatic, pet",3.1,92,2024-06-10 09:35:22.281
+vet_f5fdab8001e849a1b6460d4759b1f1f8,"aquatic, cattle, bird",1.4,147,2024-06-09 16:57:56.414
+vet_f66ca7bb8a264383a1283ad03daf7d0e,"exotic, reptile, pet, bird",3.9,32,2024-06-17 14:00:15.509
+vet_f6751a6c4dc34805bc839f04a1726776,"aquatic, cattle, exotic",4.4,84,2024-06-04 20:07:47.115
+vet_f6932aedb42041b790856edce48554da,"reptile, exotic, pet, aquatic, cattle",2.7,185,2024-06-03 17:00:12.666
+vet_f69d36b2470e43678bca0faad5a2d7cb,"exotic, bird, pet, cattle, aquatic, reptile",1.9,87,2024-05-23 21:22:30.568
+vet_f706bc07913b4f3daf0e9333564a9fbc,reptile,4.3,128,2024-06-15 18:54:40.699
+vet_f74a1b39992144ca98e4200bd03842fe,"bird, pet, aquatic, reptile",4.0,185,2024-05-26 23:45:50.488
+vet_f751c3b1bae74377afebdb190a928079,"bird, pet, cattle, exotic",2.8,76,2024-05-01 09:10:12.105
+vet_f759ad5e06e54ad394cb3b2c29f05014,"reptile, pet, bird, exotic, cattle, aquatic",3.1,135,2024-05-13 01:54:01.149
+vet_f7a0b3fd42a74445b839958fff2930b9,pet,1.9,111,2024-05-08 18:35:00.122
+vet_f7aae82d0a77414881cd85478708f0fb,"aquatic, cattle, exotic, bird",4.7,82,2024-06-06 17:22:59.68
+vet_f81228f3f6b440ea9e7475552abf4d7b,"cattle, exotic",2.5,56,2024-05-20 01:02:29.564
+vet_f812a91729994eb785832170c32f05c0,"reptile, pet, bird, cattle, aquatic, exotic",2.3,171,2024-06-20 18:56:49.945
+vet_f86e92b12e39449d9bcd1897414b459e,bird,3.0,109,2024-05-29 03:58:49.929
+vet_f875a988b5bf4011af8f6854e309ed16,"exotic, aquatic",1.7,68,2024-06-18 10:56:25.04
+vet_f9079092e7a84395be0cf1a1b0d577a0,"cattle, pet, exotic, reptile, aquatic, bird",2.1,193,2024-06-13 23:09:01.196
+vet_f93d8edcb95944f6ab4db70ba4a053d0,aquatic,4.5,120,2024-06-04 01:10:31.494
+vet_f97110e9155e49c9b810ac5bc6381583,"cattle, exotic, aquatic, pet, reptile",4.9,46,2024-06-02 07:37:13.832
+vet_f9a5949d34c04d4baa12a36e6c6f3102,"aquatic, cattle, exotic, bird, pet, reptile",4.5,157,2024-06-02 02:40:36.495
+vet_fa67971ab8464a6dba81722493ab7840,"aquatic, reptile, pet, bird, exotic",1.7,90,2024-05-05 05:07:59.448
+vet_fa842f9332574dcd81de8de70bdcbc71,aquatic,3.5,15,2024-05-16 04:05:54.811
+vet_fb5882d09b654469a08074794c52587e,"pet, exotic",1.8,95,2024-05-21 06:38:16.152
+vet_fb85e75e913b4819ac82c4ee9b109b53,"reptile, pet, aquatic, bird, cattle",3.3,159,2024-06-13 06:20:14.702
+vet_fbe6dc38ed0a4296a7c0b4c96b8ecae9,"aquatic, exotic, cattle, pet",2.2,136,2024-05-29 08:25:48.262
+vet_fc2971009e8d4250bc52f66d7f23dc87,"reptile, exotic, aquatic, pet, cattle",4.9,89,2024-05-22 14:47:50.145
+vet_fc4ff34c6a104e7386af3f96760019af,pet,2.9,138,2024-05-04 10:03:32.787
+vet_fcc20c06bb21420d8a1377fb5e79ba86,reptile,4.7,143,2024-05-21 16:04:45.581
+vet_fd9757cad1bd4db5bfac39edb96c41d3,"exotic, reptile, pet",4.2,191,2024-05-17 13:38:57.318
+vet_fddec62024a840b1ad7ded6e1e1a4377,"bird, pet, aquatic, cattle",2.7,89,2024-05-26 11:17:30.957
+vet_ff15f61afff34e87ae0987d17af8a994,"bird, cattle, exotic, aquatic, pet, reptile",2.6,17,2024-05-19 16:24:06.857
+vet_ff2634e9db714b579f42ff6b099ca622,reptile,2.9,23,2024-05-02 14:16:05.30
+vet_ff69220c523842e082d47905f780d02e,"aquatic, pet",4.3,115,2024-05-28 05:29:31.125
+vet_ff876461f4b64d388757cb09d88a10ca,"reptile, cattle, pet",1.7,139,2024-05-31 22:19:13.394
+vet_ffaa9a0e35c647798b706bc846ec32bb,"bird, pet",1.7,103,2024-05-31 01:21:40.51
